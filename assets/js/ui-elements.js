@@ -59,4 +59,7 @@ function seeLessAbstract(element) {
     element.parentNode.removeChild(element);
 }
 
+document.addEventListener('DOMContentLoaded', function() {
+    setAbstracts()
+});
 

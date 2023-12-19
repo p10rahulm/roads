@@ -69,7 +69,8 @@ function updatePapersContent() {
     });
 }
 
+/*
 document.addEventListener('DOMContentLoaded', function() {
-    // updatePapersContent();
-    setAbstracts()
+    updatePapersContent();
 });
+*/
