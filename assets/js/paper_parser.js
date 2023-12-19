@@ -53,7 +53,8 @@ function updatePapersContent() {
     });
 }
 
-updatePapersContent()
-// document.addEventListener('DOMContentLoaded', function() {
-//     updatePapersContent();
-// });
+/*
+document.addEventListener('DOMContentLoaded', function() {
+    updatePapersContent();
+});
+*/
