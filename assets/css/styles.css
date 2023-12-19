@@ -77,7 +77,7 @@ a:hover {
     padding-left: 10px;
 
     font-family: "Lora", Georgia, Times, "Times New Roman", Serif;
-    color: #005999;
+
     font-size: min(7vw, 2em);
     font-weight: bold;
 
@@ -85,11 +85,13 @@ a:hover {
 
     flex-basis: 325px;
     flex-grow: 1;
-    flex-shrink: 1
+    flex-shrink: 1;
+    color: #98093b;
 }
 
+
 .header #headerSubheading {
-    color: #98093b;
+    color: #005999;
 }
 
 .header #navbar {
