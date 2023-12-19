@@ -61,6 +61,5 @@ function seeLessAbstract(element) {
 
 document.addEventListener('DOMContentLoaded', function() {
     setAbstracts()
-    console.log("I was here")
 });
 
