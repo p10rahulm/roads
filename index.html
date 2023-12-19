@@ -80,9 +80,12 @@
 
     </div>
 <script type="text/javascript" id="MathJax-script" async
-        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.0.0/es5/latest?tex-mml-chtml.js">
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.min.js">
 </script>
-
+<!-- Fallback script if CDN fails -->
+<script>
+    window.MathJax || document.write('<script src="/assets/js/mathjax322.min.js">\x3C/script>')
+</script>
 <script type="text/x-mathjax-config" defer>
     MathJax.Hub.Config({
       tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
