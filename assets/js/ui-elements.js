@@ -61,5 +61,6 @@ function seeLessAbstract(element) {
 
 document.addEventListener('DOMContentLoaded', function() {
     setAbstracts()
+    console.log("setting see-more's")
 });
 
