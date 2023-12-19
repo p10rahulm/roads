@@ -1,8 +1,22 @@
-function fetchPaperList() {
+function fetchPaperListUnsorted() {
     return fetch('content/papers/papers_list.txt')
         .then(response => response.text())
         .then(text => text.split('\n').filter(line => line.trim().length > 0));
 }
+
+function fetchPaperList() {
+    return fetch('content/papers/papers_list.txt')
+        .then(response => response.text())
+        .then(text => {
+            const paths = text.split('\n').filter(line => line.trim().length > 0);
+            return paths.sort((a, b) => {
+                const aFileName = a.split('/').pop();
+                const bFileName = b.split('/').pop();
+                return aFileName.localeCompare(bFileName);
+            });
+        });
+}
+
 
 function fetchPaperContent(path) {
     return fetch(path).then(response => response.text());
