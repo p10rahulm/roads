@@ -1,4 +1,4 @@
-anand/201006_A3Approximation.md
+content/papers/anand/201006_A3Approximation.md
 content/papers/anand/201006_ImprovedAlgorithmFor.md
 content/papers/anand/201108_ AlgorithmicExtensionsOf.md
 content/papers/anand/201205_ManySparseCuts.md
