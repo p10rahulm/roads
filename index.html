@@ -100,7 +100,7 @@
 
 <script>
     document.addEventListener('DOMContentLoaded', function() {
-        fetch('content/recent_news.txt')
+        fetch('content/recent_news/recent_news.txt')
             .then(response => response.text())
             .then(text => {
                 const lines = text.split('\n');
