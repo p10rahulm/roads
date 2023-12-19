@@ -213,6 +213,20 @@ a:hover {
 
 }
 
+.mainer .section-heading{
+    font-family: "Lora", Georgia, Cambria, Times, "Times New Roman", Serif;
+    font-size: max(16px, 1.75em);
+    text-align: center;
+    padding: 25px 0;
+    border-bottom: 1px solid rgba(0, 26, 250, 0.12);
+    font-weight: bold;
+    color: #006633;
+    margin: 0 auto;
+    margin-top: 25px;
+
+}
+
+
 .mainer .home-textpara {
     color: rgb(90, 91, 106);
     font-size: max(12px, 1em);
