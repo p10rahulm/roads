@@ -242,6 +242,11 @@ a:hover {
 .mainer #news-content ul{
     font-weight: normal;
 }
+
+.mainer #news-content li{
+    padding: 10px 5px;
+}
+
 .mainer #Home #institutions {
     display: flex;
     flex-direction: row;
