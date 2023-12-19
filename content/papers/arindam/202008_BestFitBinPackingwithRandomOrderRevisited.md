@@ -3,7 +3,7 @@ title = "Best Fit Bin Packing with Random Order Revisited"
 authors = "Susanne Albers, Arindam Khan, Leon Ladewig"
 paper_link = "https://drops.dagstuhl.de/opus/volltexte/2020/12730/"
 publication_details = "MFCS-2020: 45th International Symposium on Mathematical Foundations of Computer Science, 2020"
-conference_date = "2020-08-01"
+conference_date = "2020-08"
 notes = "Recipient of best paper award at MFCS, 2020. Journal version accepted at Algorithmica, 2021."
 +++
 

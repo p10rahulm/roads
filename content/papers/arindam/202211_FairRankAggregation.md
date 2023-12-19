@@ -3,7 +3,7 @@ title = "Fair Rank Aggregation"
 authors = "Diptarka Chakraborty, Syamantak Das, Arindam Khan, Aditya Subramanian"
 paper_link = "https://openreview.net/pdf?id=xbgtFOO9J5D"
 publication_details = "NeurIPS-2022: Annual Conference on Neural Information Processing Systems, 2022"
-conference_date = "2022-11-01"
+conference_date = "2022-11"
 notes = ""
 +++
 

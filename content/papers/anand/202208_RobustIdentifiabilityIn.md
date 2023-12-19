@@ -3,7 +3,7 @@ title = "Robust identifiability in linear structural equation models of causal i
 authors = "Karthik Abinav Sankararaman, Anand Louis, Navin Goyal"
 paper_link = "https://arxiv.org/abs/2007.06869"
 publication_details = "UAI 2022: 38th Conference on Uncertainty in Artificial Intelligence"
-conference_date = "2022-08-01"
+conference_date = "2022-08"
 notes = ""
 +++
 

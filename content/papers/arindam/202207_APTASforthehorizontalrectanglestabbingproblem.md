@@ -3,7 +3,7 @@ title = "A PTAS for the horizontal rectangle stabbing problem"
 authors = "Arindam Khan, Aditya Subramanian, Andreas Wiese"
 paper_link = "https://arxiv.org/abs/2111.05197"
 publication_details = "IPCO-2022: International Conference on Integer Programming and Combinatorial Optimization, 2022"
-conference_date = "2022-07-01"
+conference_date = "2022-07"
 notes = ""
 +++
 

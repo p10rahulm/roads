@@ -3,7 +3,7 @@ title = "Socially Fair Center-Based and Linear Subspace Clustering"
 authors = "Sruthi Gorantla, Kishen N. Gowda, Amit Deshpande, Anand Louis"
 paper_link = "https://arxiv.org/abs/2208.10095"
 publication_details = "ECML-PKDD 2023: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases"
-conference_date = "2023-07-01"
+conference_date = "2023-07"
 notes = ""
 +++
 

@@ -3,7 +3,7 @@ title = "Role of Conformity in Opinion Dynamics in Social Networks"
 authors = "Deval Patel, Arindam Khan, Anand Louis"
 paper_link = "https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1001.pdf"
 publication_details = "AAMAS-2021: International Conference on Autonomous Agents and Multiagent Systems, 2021"
-conference_date = "2021-05-01"
+conference_date = "2021-05"
 notes = ""
 +++
 

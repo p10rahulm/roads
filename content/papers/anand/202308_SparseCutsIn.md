@@ -3,7 +3,7 @@ title = "Sparse Cuts in Hypergraphs from Random Walks on Simplicial Complexes"
 authors = "Anand Louis, Rameesh Paul, Arka Ray"
 paper_link = "https://arxiv.org/abs/2212.13406"
 publication_details = "MFCS 2023: 48th International Symposium on Mathematical Foundations of Computer Science"
-conference_date = "2023-08-01"
+conference_date = "2023-08"
 notes = ""
 +++
 

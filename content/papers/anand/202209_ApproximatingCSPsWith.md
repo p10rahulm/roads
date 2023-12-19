@@ -3,7 +3,7 @@ title = "Approximating CSPs with Outliers"
 authors = "Suprovat Ghoshal, Anand Louis"
 paper_link = "https://arxiv.org/abs/2205.11328"
 publication_details = "APPROX 2022: 25th International Conference on Approximation Algorithms for Combinatorial Optimization Problems"
-conference_date = "2022-09-01"
+conference_date = "2022-09"
 notes = ""
 +++
 

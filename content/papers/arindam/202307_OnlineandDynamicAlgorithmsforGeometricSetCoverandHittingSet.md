@@ -3,7 +3,7 @@ title = "Online and Dynamic Algorithms for Geometric Set Cover and Hitting Set"
 authors = "Arindam Khan, Aditya Lonkar, Saladi Rahul, Aditya Subramanian, Andreas Wiese"
 paper_link = "https://drops.dagstuhl.de/opus/volltexte/2023/17896/pdf/LIPIcs-SoCG-2023-46.pdf"
 publication_details = "SoCG-2023: Symposium on Computational Geometry, 2023"
-conference_date = "2023-07-01"
+conference_date = "2023-07"
 notes = ""
 +++
 

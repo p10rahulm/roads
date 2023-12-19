@@ -3,7 +3,7 @@ title = "On Guillotine Separable Packings for the Two-Dimensional Geometric Knap
 authors = "Arindam Khan, Arnab Maiti, Amatya Sharma, Andreas Wiese"
 paper_link = "https://drops.dagstuhl.de/opus/volltexte/2021/13847/"
 publication_details = "SoCG-2021: International Symposium on Computational Geometry, 2021"
-conference_date = "2021-07-01"
+conference_date = "2021-07"
 notes = ""
 +++
 

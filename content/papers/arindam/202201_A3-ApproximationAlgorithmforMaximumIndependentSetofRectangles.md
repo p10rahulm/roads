@@ -3,7 +3,7 @@ title = "A 3-Approximation Algorithm for Maximum Independent Set of Rectangles"
 authors = "Waldo G\'alvez, Arindam Khan, Mathieu Mari, Tobias M\"omke, Madhusudhan Reddy Pittu, and Andreas Wiese"
 paper_link = "https://epubs.siam.org/doi/pdf/10.1137/1.9781611977073.38"
 publication_details = "SODA-2022: ACM-SIAM Symposium on Discrete Algorithms, 2022"
-conference_date = "2022-01-01"
+conference_date = "2022-01"
 notes = ""
 +++
 

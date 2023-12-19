@@ -3,7 +3,7 @@ title = "On Discovering Bucket Orders from Preference Data"
 authors = "Sreyash Kenkre, Arindam Khan, Vinayaka Pandit"
 paper_link = "https://www14.in.tum.de/personen/khan/Arindam%20Khan_files/SDM11bucketOrder.pdf"
 publication_details = "SDM-2011: Proceedings of the Eleventh SIAM International Conference on Data Mining, 2011"
-conference_date = "2011-04-01"
+conference_date = "2011-04"
 notes = ""
 +++
 

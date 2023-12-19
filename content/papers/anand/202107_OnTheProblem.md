@@ -3,7 +3,7 @@ title = "On the Problem of Underranking in Group-Fair Ranking"
 authors = "Sruthi Gorantla, Amit Deshpande, Anand Louis"
 paper_link = "https://arxiv.org/abs/2010.06986"
 publication_details = "ICML 2021: 38th International Conference on Machine Learning"
-conference_date = "2021-07-01"
+conference_date = "2021-07"
 notes = ""
 +++
 

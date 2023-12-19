@@ -3,7 +3,7 @@ title = "Graph Neural Networks for Soft Semi-Supervised Learning on Hypergraphs"
 authors = "Naganand Yadati, Tingran Gao, Shahab Asoodeh, Partha P. Talukdar, Anand Louis: "
 paper_link = "https://scholar.harvard.edu/files/shahab/files/dhn_pakdd21.pdf"
 publication_details = "PAKDD 2021: 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining"
-conference_date = "2021-05-01"
+conference_date = "2021-05"
 notes = ""
 +++
 

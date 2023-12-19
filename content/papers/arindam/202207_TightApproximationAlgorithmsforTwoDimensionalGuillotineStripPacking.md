@@ -3,7 +3,7 @@ title = "Tight Approximation Algorithms for Two Dimensional Guillotine Strip Pac
 authors = "Nikhil Ayyadevara, Rajni Dabas, Arindam Khan, K. V. N. Sreenivas"
 paper_link = "https://drops.dagstuhl.de/opus/volltexte/2022/16353/pdf/LIPIcs-ICALP-2022-12.pdf"
 publication_details = "ICALP-2022: International Colloquium on Automata, Languages, and Programming, 2022"
-conference_date = "2022-07-01"
+conference_date = "2022-07"
 notes = ""
 +++
 

@@ -3,7 +3,7 @@ title = "Searching for the closest-pair in a query translate"
 authors = "Jie Xue, Yuan Li, Saladi Rahul, Ravi Janardan"
 paper_link = "https://arxiv.org/abs/1807.09498"
 publication_details = "SOCG 2019: 35th International Symposium on Computational Geometry"
-conference_date = "2019-06-01"
+conference_date = "2019-06"
 notes = ""
 +++
 

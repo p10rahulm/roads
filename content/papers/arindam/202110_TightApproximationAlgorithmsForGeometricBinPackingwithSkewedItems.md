@@ -3,7 +3,7 @@ title = "Tight Approximation Algorithms For Geometric Bin Packing with Skewed It
 authors = "Arindam Khan, Eklavya Sharma"
 paper_link = "https://drops.dagstuhl.de/opus/volltexte/2021/14715/pdf/LIPIcs-APPROX22.pdf"
 publication_details = "APPROX-2021: International Conference on Approximation Algorithms for Combinatorial Optimization Problems, 2021"
-conference_date = "2021-10-01"
+conference_date = "2021-10"
 notes = ""
 +++
 

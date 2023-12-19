@@ -3,7 +3,7 @@ title = "Approximation Algorithms for Hypergraph Small Set Expansion and Small S
 authors = "Anand Louis, Yury Makarychev"
 paper_link = "https://arxiv.org/abs/1404.4575"
 publication_details = "APPROX 2014: 17th International Conference on Approximation Algorithms for Combinatorial Optimization Problem"
-conference_date = "2014-06-01"
+conference_date = "2014-06"
 notes = "A journal version of this appeared in Theory of Computing, vol. 12, article 17, 2016."
 +++
 

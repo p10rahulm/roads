@@ -3,7 +3,7 @@ title = "Many sparse cuts via higher eigenvalue"
 authors = "Anand Louis, Prasad Raghavendra, Prasad Tetali, Santosh S. Vempala"
 paper_link = "https://arxiv.org/abs/1111.0965"
 publication_details = "STOC 2012: 44th ACM Symposium on Theory of Computing"
-conference_date = "2012-05-01"
+conference_date = "2012-05"
 notes = ""
 +++
 

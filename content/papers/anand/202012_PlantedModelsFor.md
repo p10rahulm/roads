@@ -3,7 +3,7 @@ title = "Planted Models for the Densest k-Subgraph Problem"
 authors = "Yash Khanna, Anand Louis"
 paper_link = "https://arxiv.org/abs/2004.13978"
 publication_details = "FSTTCS 2020: 40th conference on Foundations of Software Technology and Theoretical Computer Science"
-conference_date = "2020-12-01"
+conference_date = "2020-12"
 notes = ""
 +++
 

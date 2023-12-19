@@ -3,7 +3,7 @@ title = "A 3-Approximation for Facility Location with Uniform Capacities"
 authors = "Ankit Aggarwal, Anand Louis, Manisha Bansal, Naveen Garg, Neelima Gupta, Shubham Gupta, Surabhi Jain"
 paper_link = "https://link.springer.com/article/10.1007/s10107-012-0565-4"
 publication_details = "IPCO 2010: Integer Programming and Combinatorial Optimization: 14th International Conference"
-conference_date = "2010-06-01"
+conference_date = "2010-06"
 notes = ""
 +++
 

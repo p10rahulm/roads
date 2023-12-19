@@ -3,7 +3,7 @@ title = "Independent Sets in Semi-random Hypergraphs"
 authors = "Yash Khanna, Anand Louis, Rameesh Paul"
 paper_link = "https://arxiv.org/abs/2104.00927"
 publication_details = "WADS 2021: 17th Algorithm and Data Structures Symposium"
-conference_date = "2021-08-01"
+conference_date = "2021-08"
 notes = ""
 +++
 

@@ -3,7 +3,7 @@ title = "Improved Approximation Algorithms for 2-Dimensional Knapsack: Packing i
 authors = "Waldo G\'alvez, Fabrizio Grandoni, Arindam Khan, Diego Ramírez-Romero, Andreas Wiese"
 paper_link = "https://arxiv.org/abs/2103.10406"
 publication_details = "SoCG-2021: International Symposium on Computational Geometry, 2021"
-conference_date = "2021-07-01"
+conference_date = "2021-07"
 notes = ""
 +++
 

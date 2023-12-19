@@ -3,7 +3,7 @@ title = "On Mimicking Networks Representing Minimum Terminal Cuts"
 authors = "Arindam Khan, Prasad Raghavendra"
 paper_link = "https://www.csa.iisc.ac.in/~arindamkhan/papers/iplvertexsparsi.pdf"
 publication_details = "Information Processing Letters, 2014"
-conference_date = "2014-07-01"
+conference_date = "2014-07"
 notes = "Journal Submission"
 +++
 

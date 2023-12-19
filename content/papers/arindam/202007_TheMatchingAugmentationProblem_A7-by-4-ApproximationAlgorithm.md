@@ -3,7 +3,7 @@ title = "The Matching Augmentation Problem: A $\frac{7}{4}$-Approximation Algori
 authors = "Joe Cheriyan, Jack Dippel, Fabrizio Grandoni, Arindam Khan, Vishnu V. Narayan"
 paper_link = "https://arxiv.org/abs/1810.07816"
 publication_details = "Mathematical Programming, Volume 182, 2020"
-conference_date = "2020-07-01"
+conference_date = "2020-07"
 notes = "Journal"
 +++
 

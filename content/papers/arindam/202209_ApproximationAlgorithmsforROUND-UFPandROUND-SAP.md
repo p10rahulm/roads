@@ -3,7 +3,7 @@ title = "Approximation Algorithms for ROUND-UFP and ROUND-SAP"
 authors = "Debajyoti Kar, Arindam Khan, Andreas Wiese"
 paper_link = "https://drops.dagstuhl.de/opus/volltexte/2022/17009/pdf/LIPIcs-ESA-2022-71.pdf"
 publication_details = "ESA-2022: European Symposium on Algorithms, 2022"
-conference_date = "2022-09-01"
+conference_date = "2022-09"
 notes = ""
 +++
 

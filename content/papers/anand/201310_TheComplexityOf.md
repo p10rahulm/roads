@@ -3,7 +3,7 @@ title = "The Complexity of Approximating Vertex Expansion"
 authors = "Anand Louis, Prasad Raghavendra, Santosh S. Vempala"
 paper_link = "https://arxiv.org/abs/1304.3139"
 publication_details = "FOCS 2013: 54th Annual IEEE Symposium on Foundations of Computer Science"
-conference_date = "2013-10-01"
+conference_date = "2013-10"
 notes = ""
 +++
 

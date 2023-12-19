@@ -3,7 +3,7 @@ title = "Improved Online Algorithms for Knapsack and GAP in the Random Order Mod
 authors = "Susanne Albers, Arindam Khan, Leon Ladewig"
 paper_link = "https://arxiv.org/abs/2012.00497"
 publication_details = "APPROX-2019: International Conference on Approximation Algorithms for Combinatorial Optimization Problems, 2019"
-conference_date = "2019-09-01"
+conference_date = "2019-09"
 notes = "Journal version published in Algorithmica, 2021."
 +++
 

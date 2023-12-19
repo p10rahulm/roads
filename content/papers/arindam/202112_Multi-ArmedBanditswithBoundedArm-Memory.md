@@ -3,7 +3,7 @@ title = "Multi-Armed Bandits with Bounded Arm-Memory: Near-Optimal Guarantees fo
 authors = "Arnab Maiti, Vishakha Patil, Arindam Khan"
 paper_link = "https://proceedings.neurips.cc/paper_files/paper/2021/file/a2f04745390fd6897d09772b2cd1f581-Paper.pdf"
 publication_details = "NeurIPS-2021: Annual Conference on Neural Information Processing Systems, 2021"
-conference_date = "2021-12-01"
+conference_date = "2021-12"
 notes = ""
 +++
 

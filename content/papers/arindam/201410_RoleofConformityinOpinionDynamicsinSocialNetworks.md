@@ -3,7 +3,7 @@ title = "Role of Conformity in Opinion Dynamics in Social Networks"
 authors = "Abhimanyu Das, Sreenivas Gollapudi, Arindam Khan, Renato Paes Leme"
 paper_link = "https://cosn.acm.org/2014/files/cosn068f-gollapudiATS.pdf"
 publication_details = "COSN-2014: ACM Conference on Online Social Networks"
-conference_date = "2014-10-01"
+conference_date = "2014-10"
 notes = ""
 +++
 

@@ -3,7 +3,7 @@ title = "Approximation Algorithms for Partially Colorable Graphs"
 authors = "Suprovat Ghoshal, Anand Louis, Rahul Raychaudhury"
 paper_link = "https://arxiv.org/abs/1908.11631"
 publication_details = "APPROX 2019: 22nd International Conference on Approximation Algorithms for Combinatorial Optimization Problems"
-conference_date = "2019-09-01"
+conference_date = "2019-09"
 notes = ""
 +++
 

@@ -3,7 +3,7 @@ title = "4D Range Reporting in the Pointer Machine Model in Almost-Optimal Time"
 authors = "Yakov Nekrich, Saladi Rahul"
 paper_link = "https://arxiv.org/abs/2211.03161"
 publication_details = "SODA 2023: 2023 Annual ACM-SIAM Symposium on Discrete Algorithms"
-conference_date = "2023-01-01"
+conference_date = "2023-01"
 notes = ""
 +++
 

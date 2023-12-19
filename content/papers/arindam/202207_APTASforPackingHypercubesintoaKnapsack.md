@@ -3,7 +3,7 @@ title = "A PTAS for Packing Hypercubes into a Knapsack"
 authors = "Klaus Jansen, Arindam Khan, Marvin Lira, K. V. N. Sreenivas"
 paper_link = "https://drops.dagstuhl.de/opus/volltexte/2022/16419/pdf/LIPIcs-ICALP-2022-78.pdf"
 publication_details = "ICALP-2022: International Colloquium on Automata, Languages, and Programming, 2022"
-conference_date = "2022-07-01"
+conference_date = "2022-07"
 notes = ""
 +++
 

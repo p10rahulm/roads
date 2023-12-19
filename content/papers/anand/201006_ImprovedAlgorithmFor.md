@@ -3,7 +3,7 @@ title = "Improved Algorithm for Degree Bounded Survivable Network Design Problem
 authors = "Anand Louis, Nisheeth K. Vishnoi"
 paper_link = "https://arxiv.org/abs/0911.4544"
 publication_details = "SWAT 2010: 12th Scandinavian Symposium and Workshops on Algorithm Theory"
-conference_date = "2010-06-01"
+conference_date = "2010-06"
 notes = ""
 +++
 

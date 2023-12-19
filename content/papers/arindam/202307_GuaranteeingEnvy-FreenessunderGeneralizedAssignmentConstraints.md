@@ -3,7 +3,7 @@ title = "Guaranteeing Envy-Freeness under Generalized Assignment Constraints"
 authors = "Siddharth Barman, Arindam Khan, Sudarshan Shyam, K. V. N. Sreenivas"
 paper_link = "https://arxiv.org/abs/2305.01339"
 publication_details = "EC-2023: ACM Conference on Economics and Computation, 2023"
-conference_date = "2023-07-01"
+conference_date = "2023-07"
 notes = ""
 +++
 

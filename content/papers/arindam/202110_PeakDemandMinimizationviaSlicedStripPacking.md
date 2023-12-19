@@ -3,7 +3,7 @@ title = "Peak Demand Minimization via Sliced Strip Packing"
 authors = "Max A. Deppert, Klaus Jansen, Arindam Khan, Malin Rau, Malte Tutas"
 paper_link = "https://drops.dagstuhl.de/opus/volltexte/2021/14714/pdf/LIPIcs-APPROX21.pdf"
 publication_details = "APPROX-2021: International Conference on Approximation Algorithms for Combinatorial Optimization Problems, 2021"
-conference_date = "2021-10-01"
+conference_date = "2021-10"
 notes = ""
 +++
 

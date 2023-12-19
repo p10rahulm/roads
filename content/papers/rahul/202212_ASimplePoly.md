@@ -3,7 +3,7 @@ title = "A Simple Polynomial Time Algorithm for Max Cut on Laminar  Geometric In
 authors = "Utkarsh Joshi, Saladi Rahul, Jason Thoppil"
 paper_link = "https://drops.dagstuhl.de/opus/volltexte/2022/17413/"
 publication_details = "FSTTCS 2022: 42nd IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science"
-conference_date = "2022-12-01"
+conference_date = "2022-12"
 notes = ""
 +++
 

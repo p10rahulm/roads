@@ -3,7 +3,7 @@ title = "Stability of Linear Structural Equation Models of Causal Inference "
 authors = "Karthik Abinav Sankararaman, Anand Louis, Navin Goyal"
 paper_link = "https://arxiv.org/abs/2007.06869"
 publication_details = "UAI 2019: 35th Conference on Uncertainty in Artificial Intelligence"
-conference_date = "2019-07-01"
+conference_date = "2019-07"
 notes = "A version of this appeared in NeurIPS 2018 Workshop on Causal Learning"
 +++
 

@@ -3,7 +3,7 @@ title = "Planted Models for k-Way Edge and Vertex Expansion"
 authors = "Anand Louis, Rakesh Venkat"
 paper_link = "https://arxiv.org/abs/1910.08889"
 publication_details = "FSTTCS 2019: 39th IARCS Annual Conference on. Foundations of Software Technology and Theoretical Computer Science"
-conference_date = "2019-12-01"
+conference_date = "2019-12"
 notes = ""
 +++
 

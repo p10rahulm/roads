@@ -3,7 +3,7 @@ title = "Mitigating Disparity while Maximizing Reward: Tight Anytime Guarantee f
 authors = "Vishakha Patil, Vineet Nair, Ganesh Ghalme, Arindam Khan"
 paper_link = "https://arxiv.org/abs/2208.09254"
 publication_details = "IJCAI-2023: International Joint Conference On Artificial Intelligence, 2023"
-conference_date = "2023-08-01"
+conference_date = "2023-08"
 notes = ""
 +++
 

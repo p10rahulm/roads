@@ -3,7 +3,7 @@ title = "Sampling Ex-Post Group-Fair Rankings"
 authors = "Sruthi Gorantla, Amit Deshpande, Anand Louis"
 paper_link = "https://arxiv.org/abs/2203.00887"
 publication_details = "IJCAI 2023: 32nd International Joint Conference on Artificial Intelligence"
-conference_date = "2023-07-01"
+conference_date = "2023-07"
 notes = ""
 +++
 

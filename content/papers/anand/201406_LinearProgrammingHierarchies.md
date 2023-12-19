@@ -3,7 +3,7 @@ title = "Linear Programming Hierarchies Suffice for Directed Steiner Tree"
 authors = "Zachary Friggstad, Jochen Könemann, Young Kun-Ko, Anand Louis, Mohammad Shadravan, Madhur Tulsiani"
 paper_link = "https://www.math.uwaterloo.ca/~jochen/docs/dst_jour.pdf"
 publication_details = "IPCO 2014: 17th Conference on Integer Programming and Combinatorial Optimization"
-conference_date = "2014-06-01"
+conference_date = "2014-06"
 notes = ""
 +++
 

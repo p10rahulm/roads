@@ -3,7 +3,7 @@ title = "Optimal Algorithms for Range Searching over Multi-Armed Bandits"
 authors = "Siddharth Barman, Ramakrishnan Krishnamurthy, Saladi Rahul"
 paper_link = "https://arxiv.org/abs/2105.01390"
 publication_details = "IJCAI 2021: 30th International Joint Conference on Artificial Intelligence"
-conference_date = "2021-08-01"
+conference_date = "2021-08"
 notes = ""
 +++
 

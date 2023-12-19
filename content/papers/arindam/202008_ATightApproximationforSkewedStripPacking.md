@@ -3,7 +3,7 @@ title = "A Tight $(3/2+\varepsilon)$ Approximation for Skewed Strip Packing"
 authors = "Waldo G\'alvez, Fabrizio Grandoni, Afrouz Jabal Ameli, Klaus Jansen, Arindam Khan, Malin Rau."
 paper_link = "https://drops.dagstuhl.de/opus/volltexte/2020/12647/"
 publication_details = "APPROX-2020: International Conference on Approximation Algorithms for Combinatorial Optimization Problems, 2020"
-conference_date = "2020-08-01"
+conference_date = "2020-08"
 notes = ""
 +++
 

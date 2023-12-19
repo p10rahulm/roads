@@ -3,7 +3,7 @@ title = "Diffuse reflection diameter and radius for convex-quadrilateralizable p
 authors = "Arindam Khan, Sudebkumar P. Pal, Mridul Aanjaneya, Arijit Bishnu, Subhas C. Nandy"
 paper_link = "https://www.csa.iisc.ac.in/~arindamkhan/papers/damdiffuse.pdf"
 publication_details = "Discrete Applied Mathematics, Volume 161, 2013"
-conference_date = "2013-07-01"
+conference_date = "2013-07"
 notes = ""
 +++
 

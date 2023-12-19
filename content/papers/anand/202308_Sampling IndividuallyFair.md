@@ -3,7 +3,7 @@ title = "Sampling Individually-Fair Rankings that are Always Group Fair."
 authors = "Sruthi Gorantla, Anay Mehrotra, Amit Deshpande, Anand Louis:"
 paper_link = "https://arxiv.org/abs/2306.11964"
 publication_details = "ACM AIES-2023: 6th AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society, 2023."
-conference_date = "2023-08-01"
+conference_date = "2023-08"
 notes = ""
 +++
 

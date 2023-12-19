@@ -3,7 +3,7 @@ title = "Finding Pseudorandom Colorings of Pseudorandom Graphs"
 authors = "Akash Kumar, Anand Louis, Madhur Tulsiani"
 paper_link = "https://drops.dagstuhl.de/opus/volltexte/2018/8395/pdf/LIPIcs-FSTTCS-2017-37.pdf"
 publication_details = "FSTTCS 2017: 37th IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science"
-conference_date = "2017-12-01"
+conference_date = "2017-12"
 notes = ""
 +++
 

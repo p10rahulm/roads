@@ -3,7 +3,7 @@ title = "Approximation Algorithm for Sparsest k-Partitioning"
 authors = "Anand Louis, Konstantin Makarychev"
 paper_link = "https://arxiv.org/abs/1306.4384"
 publication_details = "SODA 2014: 25th Annual ACM-SIAM Symposium on Discrete Algorithms"
-conference_date = "2014-01-01"
+conference_date = "2014-01"
 notes = ""
 +++
 

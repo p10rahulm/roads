@@ -3,7 +3,7 @@ title = "Group Fairness for Knapsack Problems"
 authors = "Deval Patel, Arindam Khan, Anand Louis"
 paper_link = "https://arxiv.org/abs/2006.07832"
 publication_details = "AAMAS 2021: 20th International Conference on Autonomous Agents and Multiagent Systems"
-conference_date = "2021-05-01"
+conference_date = "2021-05"
 notes = ""
 +++
 

@@ -3,7 +3,7 @@ title = "Improved Approximation Algorithm for Two-Dimensional Bin Packing"
 authors = "Nikhil Bansal, Arindam Khan"
 paper_link = "https://dl.acm.org/doi/pdf/10.5555/2634074.2634076"
 publication_details = "SODA-2014: ACM-SIAM Symposium on Discrete Algorithms"
-conference_date = "2014-10-01"
+conference_date = "2014-10"
 notes = ""
 +++
 

@@ -3,7 +3,7 @@ title = "On Euclidean k-Means Clustering with alpha-Center Proximity"
 authors = "Amit Deshpande, Anand Louis, Apoorv Vikram Singh"
 paper_link = "http://proceedings.mlr.press/v89/deshpande19a/deshpande19a.pdf"
 publication_details = "AISTATS 2019: 2nd International Conference on Artificial Intelligence and Statistics"
-conference_date = "2019-04-01"
+conference_date = "2019-04"
 notes = ""
 +++
 

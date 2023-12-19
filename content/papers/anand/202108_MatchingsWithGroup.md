@@ -3,7 +3,7 @@ title = "Matchings with Group Fairness Constraints: Online and Offline Algorithm
 authors = "Govind S. Sankar, Anand Louis, Meghana Nasre, Prajakta Nimbhorkar"
 paper_link = "https://arxiv.org/abs/2105.09522"
 publication_details = "IJCAI 2021: 30th International Joint Conference on Artificial Intelligence"
-conference_date = "2021-08-01"
+conference_date = "2021-08"
 notes = ""
 +++
 

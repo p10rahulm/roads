@@ -3,7 +3,7 @@ title = "Algorithmic Extensions of Cheeger's Inequality to Higher Eigenvalues an
 authors = "Anand Louis, Prasad Raghavendra, Prasad Tetali, Santosh S. Vempala"
 paper_link = "https://faculty.cc.gatech.edu/~vempala/papers/higher-cheeger.pdf"
 publication_details = "APPROX 2011: 14th International Workshop on Approximation Algorithms for Combinatorial Optimization Problems"
-conference_date = "2011-08-01"
+conference_date = "2011-08"
 notes = ""
 +++
 

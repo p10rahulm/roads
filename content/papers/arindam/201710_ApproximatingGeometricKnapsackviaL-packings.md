@@ -3,7 +3,7 @@ title = "Approximating Geometric Knapsack via L-packings"
 authors = "Waldo G\'alvez, Fabrizio Grandoni, Sandy Heydrich, Salvatore Ingala, Arindam Khan, Andreas Wiese"
 paper_link = "https://arxiv.org/abs/1711.07710"
 publication_details = "FOCS-2017: 58th Annual IEEE Symposium on Foundations of Computer Science, 2017"
-conference_date = "2017-10-01"
+conference_date = "2017-10"
 notes = "Selected for presentation in Hightlights in Algorithms (HALG), 2018. A journal version published at TALG, 2021."
 +++
 

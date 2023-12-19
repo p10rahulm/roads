@@ -3,7 +3,7 @@ title = "On Guillotine Separability of Squares and Rectangles"
 authors = "Arindam Khan, Madhusudhan Reddy Pittu"
 paper_link = "https://drops.dagstuhl.de/opus/volltexte/2020/12650/"
 publication_details = "APPROX-2020: International Conference on Approximation Algorithms for Combinatorial Optimization Problems, 2020"
-conference_date = "2020-08-01"
+conference_date = "2020-08"
 notes = ""
 +++
 

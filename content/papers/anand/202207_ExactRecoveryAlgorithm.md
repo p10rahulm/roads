@@ -3,7 +3,7 @@ title = "Exact Recovery Algorithm for Planted Bipartite Graph in Semi-Random Gra
 authors = "Akash Kumar, Anand Louis, Rameesh Paul"
 paper_link = "https://arxiv.org/abs/2205.03727"
 publication_details = "ICALP 2022: 49th EATCS International Colloquium on Automata, Languages and Programming (ICALP)"
-conference_date = "2022-07-01"
+conference_date = "2022-07"
 notes = ""
 +++
 

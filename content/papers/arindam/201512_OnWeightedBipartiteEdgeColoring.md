@@ -3,7 +3,7 @@ title = "On Weighted Bipartite Edge Coloring"
 authors = "Arindam Khan, Mohit Singh"
 paper_link = "https://drops.dagstuhl.de/opus/volltexte/2015/5643/pdf/28.pdf"
 publication_details = "FSTTCS-2015: IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science, 2015"
-conference_date = "2015-12-01"
+conference_date = "2015-12"
 notes = ""
 +++
 

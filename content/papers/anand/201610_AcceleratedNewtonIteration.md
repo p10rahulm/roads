@@ -3,7 +3,7 @@ title = "Accelerated Newton Iteration for Roots of Black Box Polynomials"
 authors = "Anand Louis, Santosh S. Vempala"
 paper_link = "https://arxiv.org/abs/1511.03186"
 publication_details = "FOCS 2016: 57th Annual Symposium on Foundations of Computer Science"
-conference_date = "2016-10-01"
+conference_date = "2016-10"
 notes = ""
 +++
 

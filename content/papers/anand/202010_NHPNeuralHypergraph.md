@@ -3,7 +3,7 @@ title = "NHP: Neural Hypergraph Link Prediction"
 authors = "Naganand Yadati, Vikram Nitin, Madhav Nimishakavi, Prateek Yadav, Anand Louis, Partha P. Talukdar"
 paper_link = "https://malllabiisc.github.io/publications/papers/nhp_cikm20.pdf"
 publication_details = "CIKM 2020: 29th ACM International Conference on Information and Knowledge Management"
-conference_date = "2020-10-01"
+conference_date = "2020-10"
 notes = ""
 +++
 

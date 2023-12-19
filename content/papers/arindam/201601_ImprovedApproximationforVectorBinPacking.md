@@ -3,7 +3,7 @@ title = "Improved Approximation for Vector Bin Packing"
 authors = "Nikhil Bansal, Marek Eli\'a\v s, Arindam Khan"
 paper_link = "https://www.csa.iisc.ac.in/~arindamkhan/papers/soda16bansalmarekkhan.pdf"
 publication_details = "SODA-2016: ACM-SIAM Symposium on Discrete Algorithms, 2016"
-conference_date = "2016-01-01"
+conference_date = "2016-01"
 notes = ""
 +++
 

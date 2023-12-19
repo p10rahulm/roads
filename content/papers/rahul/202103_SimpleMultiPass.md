@@ -3,7 +3,7 @@ title = "Simple Multi-Pass Streaming Algorithms for Skyline Points and Extreme P
 authors = "Timothy Chan, Saladi Rahul"
 paper_link = "https://drops.dagstuhl.de/opus/volltexte/2021/13667/"
 publication_details = "STACS 2021: 38th International Symposium on Theoretical Aspects of Computer Science"
-conference_date = "2021-03-01"
+conference_date = "2021-03"
 notes = ""
 +++
 

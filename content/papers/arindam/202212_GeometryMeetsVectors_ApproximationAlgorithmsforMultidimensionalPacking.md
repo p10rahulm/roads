@@ -3,7 +3,7 @@ title = "Geometry Meets Vectors: Approximation Algorithms for Multidimensional P
 authors = "Arindam Khan, Eklavya Sharma, K. V. N. Sreenivas"
 paper_link = "https://drops.dagstuhl.de/opus/volltexte/2022/17415/pdf/LIPIcs-FSTTCS-2022-23.pdf"
 publication_details = "FSTTCS-2022: Foundations of Software Technology and Theoretical Computer Science, 2022"
-conference_date = "2022-12-01"
+conference_date = "2022-12"
 notes = ""
 +++
 

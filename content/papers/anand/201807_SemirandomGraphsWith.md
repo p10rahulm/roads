@@ -3,7 +3,7 @@ title = "Semi-random Graphs with Planted Sparse Vertex Cuts: Algorithms for Exac
 authors = "Anand Louis, Rakesh Venkat"
 paper_link = "https://arxiv.org/abs/1805.09747"
 publication_details = "ICALP 2018: 45th International Colloquium on Automata, Languages, and Programming (ICALP)"
-conference_date = "2018-07-01"
+conference_date = "2018-07"
 notes = ""
 +++
 

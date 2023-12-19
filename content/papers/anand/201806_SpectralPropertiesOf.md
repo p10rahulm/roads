@@ -3,7 +3,7 @@ title = "Spectral Properties of Hypergraph Laplacian and Approximation Algorithm
 authors = "T-H. Hubert Chan, Anand Louis, Zhihao Gavin Tang, Chenzi Zhang "
 paper_link = "https://arxiv.org/abs/1605.01483"
 publication_details = "JACM: Journal of the ACM, Volume 65, Issue 3"
-conference_date = "2018-06-01"
+conference_date = "2018-06"
 notes = "A preliminary version of this paper appeared in STOC 2015 [Louis] (arXiv:1408.2425) and the current paper is the result of a merge with [Chan, Tang, Zhang] (arXiv:1510.01520)"
 +++
 

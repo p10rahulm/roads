@@ -3,7 +3,7 @@ title = "Approximation Algorithms and Hardness for Strong Unique Games"
 authors = "Suprovat Ghoshal, Anand Louis"
 paper_link = "https://arxiv.org/abs/2005.08918"
 publication_details = "SODA 2021: 32th Annual ACM-SIAM Symposium on Discrete Algorithms"
-conference_date = "2021-01-01"
+conference_date = "2021-01"
 notes = ""
 +++
 

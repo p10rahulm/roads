@@ -3,7 +3,7 @@ title = "Improved Pseudo-Polynomial-Time Approximation for Strip Packing"
 authors = "Waldo G\'alvez, Fabrizio Grandoni, Salvatore Ingala, Arindam Khan"
 paper_link = "https://arxiv.org/abs/1801.07541"
 publication_details = "FSTTCS-2016: IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science, 2016"
-conference_date = "2016-12-01"
+conference_date = "2016-12"
 notes = ""
 +++
 

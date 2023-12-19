@@ -3,7 +3,7 @@ title = "Active-Learning a Convex Body in Low Dimensions"
 authors = "Sariel Har-Peled, Mitchell Jones, Saladi Rahul"
 paper_link = "https://arxiv.org/abs/1903.03693"
 publication_details = "ICALP 2020: 47th International Colloquium on Automata, Languages, and Programming"
-conference_date = "2020-07-01"
+conference_date = "2020-07"
 notes = ""
 +++
 
