@@ -1,3 +1,8 @@
+function isOverflown(element) {
+    return element.scrollHeight > element.clientHeight || element.scrollWidth > element.clientWidth;
+}
+
+
 function seeMoreAbstract(element) {
     if (element.classList.contains("paper-abstract-short") && isOverflown(element)) {
         element.classList.remove("paper-abstract-short");
@@ -18,3 +23,5 @@ function seeMoreAbstract(element) {
 
     }
 }
+
+
