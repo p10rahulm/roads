@@ -6,7 +6,7 @@
 
 # Now Git changes
 git add -A
-git commit -m "mathjax changes"
+git commit -m "header added"
 git push
 
 # Now attempt to directly update website through SSH
