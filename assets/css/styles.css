@@ -464,7 +464,7 @@ a:hover {
     text-decoration: underline;
 }
 
-.mainer #papers-container .paper .paper-speaker {
+.mainer #papers-container .paper .paper-authors {
     font-weight: bold;
     color: #f77e7e;
     padding: 0 0 0.5em 0;
@@ -475,7 +475,7 @@ a:hover {
     text-decoration-color: #f77e7e;
 }
 
-.mainer #papers-container .paper .paper-time {
+.mainer #papers-container .paper .paper-release-date {
     padding-top: 0.5em;
     line-height: 1.6;
     /*font-style: italic;*/
@@ -486,7 +486,7 @@ a:hover {
     text-decoration: underline;
 }
 
-.mainer #papers-container .paper .paper-location {
+.mainer #papers-container .paper .paper-publication-details {
     /*color: #777777;*/
     /*color: #63beff;*/
     color: #365d7999;
@@ -599,7 +599,7 @@ a:hover {
     color: #ab3c3cd9;
 }
 
-#seminarHome .paper-speaker {
+#seminarHome .paper-authors {
     text-align: center;
     font-style: italic;
     font-family: Lora, Georgia, Cambria, Times, "Times New Roman", serif;
