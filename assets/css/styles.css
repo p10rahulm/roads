@@ -238,6 +238,10 @@ a:hover {
     color: #33aaff;
 }
 
+
+.mainer #news-content ul{
+    font-weight: normal;
+}
 .mainer #Home #institutions {
     display: flex;
     flex-direction: row;
