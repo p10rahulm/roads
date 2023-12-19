@@ -6,7 +6,7 @@
 
 # Now Git changes
 git add -A
-git commit -m "sorting the papers list"
+git commit -m "setting abstracts"
 git push
 
 # Now attempt to directly update website through SSH

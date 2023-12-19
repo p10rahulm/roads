@@ -25,3 +25,38 @@ function seeMoreAbstract(element) {
 }
 
 
+
+
+function setAbstracts() {
+    abstracts = document.getElementsByClassName("seminar-abstract-short");
+    for (let i = 0; i < abstracts.length; i++) {
+        let abstract = abstracts.item(i);
+        let abstractDone = abstract.parentElement.getElementsByClassName("seminar-abstract-seemore").length;
+        if (isOverflown(abstract) && !abstractDone) {
+            //create a see less token
+            const newdiv = document.createElement("div");
+            newdiv.innerHTML = "...See More<i class=\"arrow down\"></i>";
+            newdiv.className = "seminar-abstract-seemore"
+            newdiv.setAttribute("onClick", "seeMoreAbstract(this.parentElement.getElementsByClassName('seminar-abstract-short')[0])");
+            abstract.parentElement.appendChild(newdiv);
+        }
+    }
+
+}
+
+
+
+
+function seeLessAbstract(element) {
+    const abstract = element.parentElement.getElementsByClassName("seminar-abstract").item(0);
+    abstract.classList.remove("seminar-abstract");
+    abstract.classList.add("seminar-abstract-short");
+    const newdiv = document.createElement("div");
+    newdiv.innerHTML = "...See More<i class=\"arrow down\"></i>";
+    newdiv.className = "seminar-abstract-seemore"
+    newdiv.setAttribute("onClick", "seeMoreAbstract(this.parentElement.getElementsByClassName('seminar-abstract-short')[0])");
+    abstract.parentElement.appendChild(newdiv);
+    element.parentNode.removeChild(element);
+}
+
+
