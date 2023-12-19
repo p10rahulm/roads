@@ -48,13 +48,13 @@ function setAbstracts() {
 
 
 function seeLessAbstract(element) {
-    const abstract = element.parentElement.getElementsByClassName("seminar-abstract").item(0);
-    abstract.classList.remove("seminar-abstract");
-    abstract.classList.add("seminar-abstract-short");
+    const abstract = element.parentElement.getElementsByClassName("paper-abstract").item(0);
+    abstract.classList.remove("paper-abstract");
+    abstract.classList.add("paper-abstract-short");
     const newdiv = document.createElement("div");
     newdiv.innerHTML = "...See More<i class=\"arrow down\"></i>";
-    newdiv.className = "seminar-abstract-seemore"
-    newdiv.setAttribute("onClick", "seeMoreAbstract(this.parentElement.getElementsByClassName('seminar-abstract-short')[0])");
+    newdiv.className = "paper-abstract-seemore"
+    newdiv.setAttribute("onClick", "seeMoreAbstract(this.parentElement.getElementsByClassName('paper-abstract-short')[0])");
     abstract.parentElement.appendChild(newdiv);
     element.parentNode.removeChild(element);
 }
