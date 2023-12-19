@@ -437,14 +437,14 @@ a:hover {
     border-radius: 50%;
 }
 
-.mainer #papers-container .paper-fullpage .speaker-main-holder {
+.mainer #papers-container .paper-fullpage .paper-main-holder {
     flex-basis: 200px;
     flex-grow: 1;
     flex-shrink: 0;
     /*float: left;*/
 }
 
-.mainer #papers-container .paper-fullpage .speaker-details-holder {
+.mainer #papers-container .paper-fullpage .paper-details-holder {
     flex-basis: 100%;
     flex-grow: 1;
     flex-shrink: 1;
@@ -453,53 +453,53 @@ a:hover {
 }
 
 
-.mainer #papers-container .paper .paper-title {
+.mainer #papers-container .paper-card .paper-title {
     font-weight: bold;
     /*color: #005999;*/
     color: #545454;
     line-height: 1.6;
 }
 
-.mainer #papers-container .paper .paper-title:hover {
+.mainer #papers-container .paper-card .paper-title:hover {
     text-decoration: underline;
 }
 
-.mainer #papers-container .paper .paper-authors {
+.mainer #papers-container .paper-card .paper-authors {
     font-weight: bold;
     color: #f77e7e;
     padding: 0 0 0.5em 0;
     border-bottom: 1px solid rgba(0, 26, 250, 0.12);
 }
 
-.mainer #papers-container .paper .author-link-href {
+.mainer #papers-container .paper-card .author-link-href {
     text-decoration-color: #f77e7e;
 }
 
-.mainer #papers-container .paper .paper-release-date {
+.mainer #papers-container .paper-card .paper-release-date {
     padding-top: 0.5em;
     line-height: 1.6;
     /*font-style: italic;*/
     color: #4eca91;
 }
 
-.mainer #papers-container .paper .paper-time:hover {
+.mainer #papers-container .paper-card .paper-time:hover {
     text-decoration: underline;
 }
 
-.mainer #papers-container .paper .paper-publication-details {
+.mainer #papers-container .paper-card .paper-publication-details {
     /*color: #777777;*/
     /*color: #63beff;*/
     color: #365d7999;
     line-height: 1.6;
 }
 
-.mainer #papers-container .paper .paper-notes {
+.mainer #papers-container .paper-card .paper-notes {
     color: #a70101a8;
     /*color: #4c3d9e9e;*/
 }
 
 
-.mainer #papers-container .paper .paper-abstract-short {
+.mainer #papers-container .paper-card .paper-abstract-short {
     color: #5f5f5f;
     margin-top: 0.5em;
     padding-top: 0.5em;
@@ -510,7 +510,7 @@ a:hover {
     height: 1.75em;
 }
 
-.mainer #papers-container .paper .paper-abstract {
+.mainer #papers-container .paper-card .paper-abstract {
     /*color:#697285;*/
     color: #5f5f5f;
     margin-top: 0.5em;
@@ -518,14 +518,14 @@ a:hover {
     border-top: 1px solid rgba(0, 26, 250, 0.12);
 }
 
-.mainer #papers-container .paper .paper-abstract-seeless {
+.mainer #papers-container .paper-card .paper-abstract-seeless {
     text-align: right;
     /*font-weight: bold;*/
     font-size: x-small;
     color: #c1c1c1;
 }
 
-.mainer #papers-container .paper .paper-abstract-seemore {
+.mainer #papers-container .paper-card .paper-abstract-seemore {
     text-align: right;
     /*font-weight: bold;*/
     font-size: x-small;
