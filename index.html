@@ -97,10 +97,12 @@
 
 <script>
     document.addEventListener('DOMContentLoaded', function() {
-        fetch('content/recent_news/recent_news.txt')
+        fetch('content/recent_news.txt')
             .then(response => response.text())
             .then(text => {
-                document.getElementById('news-content').innerHTML = text;
+                const lines = text.split('\n');
+                const listItems = lines.map(line => line.trim() ? `<li>${line}</li>` : '').join('');
+                document.getElementById('news-content').innerHTML = `<ul>${listItems}</ul>`;
             })
             .catch(error => console.error('Error loading news:', error));
     });
