@@ -22,14 +22,14 @@ function parsePaperContent(content) {
 
 function createPaperHtml(paperData, fileName) {
     return `
-        <div id="${fileName}" class="seminar seminar-fullpage">
+        <div id="${fileName}" class="paper-card paper-fullpage">
             <div class="paper-title">${paperData.title}</div>
             <div class="paper-authors">${paperData.authors}</div>
             <div class="paper-publication-details">${paperData.publicationDetails}</div>
             <div class="paper-release-date">${paperData.conferenceDate}</div>
 
             <div class="paper-details-holder">
-                <div class="seminar-abstract" onclick="seeMoreAbstract(this)">
+                <div class="paper-abstract" onclick="seeMoreAbstract(this)">
                     <b>Abstract:</b> 
                     ${paperData.abstract}
                 </div>

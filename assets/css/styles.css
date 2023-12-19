@@ -289,7 +289,7 @@ a:hover {
     font-weight: bold;
 }
 
-.mainer #talks-navigation {
+.mainer #papers-container-navigation {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -359,25 +359,25 @@ a:hover {
 }
 
 
-.mainer #Talks .home-header {
+.mainer #papers-container .home-header {
     margin: 20px 0 10px 0;
 }
 
-.mainer #Talks .seminar {
+.mainer #papers-container .paper {
     padding: 15px;
     box-shadow: 5px 10px 18px #f4f4f4;
     padding: 20px;
     border-radius: 5px;
 }
 
-.mainer #Talks .seminar:hover {
+.mainer #papers-container .paper:hover {
     /*transition: transform .75s;*/
     transition: transform .75s;
     /*transform: translateY(-10px);*/
     transform: translateY(-5px);
 }
 
-.mainer #Talks .seminar-card {
+.mainer #papers-container .paper-card {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -385,28 +385,28 @@ a:hover {
     align-items: center;
 }
 
-.mainer #Talks .seminar-card .speaker-image-holder {
+.mainer #papers-container .paper-card .speaker-image-holder {
     flex-basis: 135px;
     flex-grow: 0;
     text-align: center;
     /*float: left;*/
 }
 
-.mainer #Talks .seminar-card .speaker-image {
+.mainer #papers-container .paper-card .speaker-image {
     height: 120px;
     width: 120px;
     margin: 15px 15px 0 0;
     border-radius: 10%;
 }
 
-.mainer #Talks .seminar-card .speaker-main-holder {
+.mainer #papers-container .paper-card .speaker-main-holder {
     flex-basis: 200px;
     flex-grow: 1;
     flex-shrink: 0;
     /*float: left;*/
 }
 
-.mainer #Talks .seminar-card .speaker-details-holder {
+.mainer #papers-container .paper-card .speaker-details-holder {
     flex-basis: 100%;
     flex-grow: 1;
     flex-shrink: 1;
@@ -414,7 +414,7 @@ a:hover {
     /*float: left;*/
 }
 
-.mainer #Talks .seminar-fullpage {
+.mainer #papers-container .paper-fullpage {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -422,7 +422,7 @@ a:hover {
     align-items: center;
 }
 
-.mainer #Talks .seminar-fullpage .speaker-image-holder {
+.mainer #papers-container .paper-fullpage .speaker-image-holder {
     flex-basis: 100%;
     flex-grow: 1;
     flex-shrink: 1;
@@ -430,21 +430,21 @@ a:hover {
     /*float: left;*/
 }
 
-.mainer #Talks .seminar-fullpage .speaker-image {
+.mainer #papers-container .paper-fullpage .speaker-image {
     height: 120px;
     width: 120px;
     margin: 15px 15px 0 0;
     border-radius: 50%;
 }
 
-.mainer #Talks .seminar-fullpage .speaker-main-holder {
+.mainer #papers-container .paper-fullpage .speaker-main-holder {
     flex-basis: 200px;
     flex-grow: 1;
     flex-shrink: 0;
     /*float: left;*/
 }
 
-.mainer #Talks .seminar-fullpage .speaker-details-holder {
+.mainer #papers-container .paper-fullpage .speaker-details-holder {
     flex-basis: 100%;
     flex-grow: 1;
     flex-shrink: 1;
@@ -453,53 +453,53 @@ a:hover {
 }
 
 
-.mainer #Talks .seminar .seminar-title {
+.mainer #papers-container .paper .paper-title {
     font-weight: bold;
     /*color: #005999;*/
     color: #545454;
     line-height: 1.6;
 }
 
-.mainer #Talks .seminar .seminar-title:hover {
+.mainer #papers-container .paper .paper-title:hover {
     text-decoration: underline;
 }
 
-.mainer #Talks .seminar .seminar-speaker {
+.mainer #papers-container .paper .paper-speaker {
     font-weight: bold;
     color: #f77e7e;
     padding: 0 0 0.5em 0;
     border-bottom: 1px solid rgba(0, 26, 250, 0.12);
 }
 
-.mainer #Talks .seminar .author-link-href {
+.mainer #papers-container .paper .author-link-href {
     text-decoration-color: #f77e7e;
 }
 
-.mainer #Talks .seminar .seminar-time {
+.mainer #papers-container .paper .paper-time {
     padding-top: 0.5em;
     line-height: 1.6;
     /*font-style: italic;*/
     color: #4eca91;
 }
 
-.mainer #Talks .seminar .seminar-time:hover {
+.mainer #papers-container .paper .paper-time:hover {
     text-decoration: underline;
 }
 
-.mainer #Talks .seminar .seminar-location {
+.mainer #papers-container .paper .paper-location {
     /*color: #777777;*/
     /*color: #63beff;*/
     color: #365d7999;
     line-height: 1.6;
 }
 
-.mainer #Talks .seminar .seminar-notes {
+.mainer #papers-container .paper .paper-notes {
     color: #a70101a8;
     /*color: #4c3d9e9e;*/
 }
 
 
-.mainer #Talks .seminar .seminar-abstract-short {
+.mainer #papers-container .paper .paper-abstract-short {
     color: #5f5f5f;
     margin-top: 0.5em;
     padding-top: 0.5em;
@@ -510,7 +510,7 @@ a:hover {
     height: 1.75em;
 }
 
-.mainer #Talks .seminar .seminar-abstract {
+.mainer #papers-container .paper .paper-abstract {
     /*color:#697285;*/
     color: #5f5f5f;
     margin-top: 0.5em;
@@ -518,14 +518,14 @@ a:hover {
     border-top: 1px solid rgba(0, 26, 250, 0.12);
 }
 
-.mainer #Talks .seminar .seminar-abstract-seeless {
+.mainer #papers-container .paper .paper-abstract-seeless {
     text-align: right;
     /*font-weight: bold;*/
     font-size: x-small;
     color: #c1c1c1;
 }
 
-.mainer #Talks .seminar .seminar-abstract-seemore {
+.mainer #papers-container .paper .paper-abstract-seemore {
     text-align: right;
     /*font-weight: bold;*/
     font-size: x-small;
@@ -590,7 +590,7 @@ a:hover {
     margin: 25px 0px;
 }
 
-#seminarHome .seminar-title {
+#seminarHome .paper-title {
     text-align: center;
     font-size: max(16px, 2em);
     font-weight: bold;
@@ -599,7 +599,7 @@ a:hover {
     color: #ab3c3cd9;
 }
 
-#seminarHome .seminar-speaker {
+#seminarHome .paper-speaker {
     text-align: center;
     font-style: italic;
     font-family: Lora, Georgia, Cambria, Times, "Times New Roman", serif;
@@ -609,7 +609,7 @@ a:hover {
     font-weight: bold;
 }
 
-#seminarHome .seminar-dateloc {
+#seminarHome .paper-dateloc {
     padding: 15px 0px;
     display: flex;
     flex-direction: row;
@@ -618,7 +618,7 @@ a:hover {
     /*border-bottom: 1px solid #ececec;*/
 }
 
-#seminarHome .seminar-dateloc {
+#seminarHome .paper-dateloc {
     padding: 15px 0px;
     display: flex;
     flex-direction: row;
@@ -627,14 +627,14 @@ a:hover {
     /*border-bottom: 1px solid #ececec;*/
 }
 
-#seminarHome .seminar-dateloc-child {
+#seminarHome .paper-dateloc-child {
     padding: 5px 0px;
     /*color: #006544;*/
     color: #00631e;
     font-family: Lora, Georgia, Cambria, Times, "Times New Roman", serif;
 }
 
-#seminarHome .seminar-abstract {
+#seminarHome .paper-abstract {
     font-family: "Open Sans", Georgia, Cambria, "Times New Roman", Times, serif;
     padding: 15px 0px;
     text-align: justify;
@@ -643,7 +643,7 @@ a:hover {
 }
 
 
-#seminarHome .seminar-notes {
+#seminarHome .paper-notes {
     margin-top: 25px;
     padding-top: 10px;
     border-top: 1px solid #ececec;
@@ -653,7 +653,7 @@ a:hover {
     font-family: "Open Sans", Georgia, Cambria, "Times New Roman", Times, serif;
 }
 
-#seminarHome .seminar-paper {
+#seminarHome .paper-paper {
     padding-top: 5px;
     font-weight: 500;
     font-size: max(11px, 0.9em);
@@ -662,7 +662,7 @@ a:hover {
     font-family: "Open Sans", Georgia, Cambria, "Times New Roman", Times, serif;
 }
 
-#seminarHome .seminar-recording {
+#seminarHome .paper-recording {
     padding-top: 5px;
     font-weight: 500;
     font-size: max(11px, 0.9em);
