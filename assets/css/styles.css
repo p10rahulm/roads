@@ -226,7 +226,7 @@ a:hover {
 
 }
 
-.mainer .section-heading{
+.mainer .section-subheading{
     font-family: "Lora", Georgia, Cambria, Times, "Times New Roman", serif;
     font-size: max(14px, 1.5em);
     text-align: center;
@@ -235,7 +235,7 @@ a:hover {
     font-weight: bold;
     color: #283a31;
     margin: 0 auto;
-    margin-top: 25px;
+    margin-top: 15px;
 
 }
 
