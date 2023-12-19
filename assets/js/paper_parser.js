@@ -30,7 +30,7 @@ function createPaperHtml(paperData, fileName) {
                 <div class="paper-release-date"><b>Date:</b> ${paperData.conferenceDate}</div>
             </div>
             <div class="paper-details-holder">
-                <div class="paper-abstract" onclick="seeMoreAbstract(this)">
+                <div class="paper-abstract-short" onclick="seeMoreAbstract(this)">
                     <b>Abstract:</b> 
                     ${paperData.abstract}
                 </div>
