@@ -6,7 +6,7 @@
 
 # Now Git changes
 git add -A
-git commit -m "header added"
+git commit -m "recent news"
 git push
 
 # Now attempt to directly update website through SSH

@@ -83,6 +83,9 @@
 
     </div>
 
+    <div id="news-content"></div>
+
+
 
     <div class="footer container-element" onclick="loadHome('content/')">
         <div id="copyright">
@@ -91,6 +94,18 @@
         </div>
 
     </div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        fetch('content/recent_news.txt')
+            .then(response => response.text())
+            .then(text => {
+                document.getElementById('news-content').innerHTML = text;
+            })
+            .catch(error => console.error('Error loading news:', error));
+    });
+</script>
+
 <script type="text/javascript" id="MathJax-script" async
         src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.min.js">
 </script>
