@@ -88,6 +88,9 @@ a:hover {
     flex-shrink: 1
 }
 
+.header #headerSubheading {
+    color: #98093b;
+}
 
 .header #navbar {
     text-align: center;
@@ -266,7 +269,7 @@ a:hover {
     justify-content: space-around;
 }
 
-.mainer #sponsor-thanks{
+.mainer #sponsor-thanks {
     margin-top: 3px;
     padding-bottom: 24px;
     font-size: 15px;
@@ -327,7 +330,6 @@ a:hover {
     outline: none;
     border: 2px solid #4285f4;
 }
-
 
 
 .mainer #Talks .home-header {
@@ -537,7 +539,8 @@ a:hover {
     padding: 10px 0;
     margin-top: 25px;
 }
-.footer{
+
+.footer {
     position: fixed;
     min-height: 25px;
     bottom: 0px;
