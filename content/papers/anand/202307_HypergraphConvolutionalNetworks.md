@@ -1,0 +1,11 @@
++++
+title = "HyperGCN: Hypergraph Convolutional Networks for Semi-Supervised Classification"
+authors = "Naganand Yadati, Madhav Nimishakavi, Prateek Yadav, Anand Louis, Partha Pratim Talukdar"
+paper_link = "https://arxiv.org/abs/1809.02589"
+publication_details = ""
+conference_date = "Working Paper"
+notes = ""
++++
+
+<b>Abstract:</b>
+In many real-world network datasets such as co-authorship, co-citation, email communication, etc., relationships are complex and go beyond pairwise. Hypergraphs provide a flexible and natural modeling tool to model such complex relationships. The obvious existence of such complex relationships in many real-world networks naturaly motivates the problem of learning with hypergraphs. A popular learning paradigm is hypergraph-based semi-supervised learning (SSL) where the goal is to assign labels to initially unlabeled vertices in a hypergraph. Motivated by the fact that a graph convolutional network (GCN) has been effective for graph-based SSL, we propose HyperGCN, a novel GCN for SSL on attributed hypergraphs. Additionally, we show how HyperGCN can be used as a learning-based approach for combinatorial optimisation on NP-hard hypergraph problems. We demonstrate HyperGCN's effectiveness through detailed experimentation on real-world hypergraphs.
