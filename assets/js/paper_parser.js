@@ -53,6 +53,7 @@ function updatePapersContent() {
     });
 }
 
-document.addEventListener('DOMContentLoaded', function() {
-    updatePapersContent();
-});
+updatePapersContent()
+// document.addEventListener('DOMContentLoaded', function() {
+//     updatePapersContent();
+// });
