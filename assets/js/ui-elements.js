@@ -28,7 +28,7 @@ function seeMoreAbstract(element) {
 
 
 function setAbstracts() {
-    abstracts = document.getElementsByClassName("paper-abstract");
+    abstracts = document.getElementsByClassName("paper-abstract-short");
     for (let i = 0; i < abstracts.length; i++) {
         let abstract = abstracts.item(i);
         let abstractDone = abstract.parentElement.getElementsByClassName("paper-abstract-seemore").length;
