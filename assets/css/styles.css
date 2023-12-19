@@ -363,14 +363,14 @@ a:hover {
     margin: 20px 0 10px 0;
 }
 
-.mainer #papers-container .paper {
+.mainer #papers-container .paper-card {
     padding: 15px;
     box-shadow: 5px 10px 18px #f4f4f4;
     padding: 20px;
     border-radius: 5px;
 }
 
-.mainer #papers-container .paper:hover {
+.mainer #papers-container .paper-card:hover {
     /*transition: transform .75s;*/
     transition: transform .75s;
     /*transform: translateY(-10px);*/
@@ -399,14 +399,14 @@ a:hover {
     border-radius: 10%;
 }
 
-.mainer #papers-container .paper-card .speaker-main-holder {
+.mainer #papers-container .paper-card .paper-main-holder {
     flex-basis: 200px;
     flex-grow: 1;
     flex-shrink: 0;
     /*float: left;*/
 }
 
-.mainer #papers-container .paper-card .speaker-details-holder {
+.mainer #papers-container .paper-card .paper-details-holder {
     flex-basis: 100%;
     flex-grow: 1;
     flex-shrink: 1;
