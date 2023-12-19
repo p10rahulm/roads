@@ -12,7 +12,7 @@ function fetchPaperList() {
             return paths.sort((a, b) => {
                 const aFileName = a.split('/').pop();
                 const bFileName = b.split('/').pop();
-                return aFileName.localeCompare(bFileName);
+                return bFileName.localeCompare(aFileName);
             });
         });
 }
