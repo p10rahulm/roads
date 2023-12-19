@@ -6,7 +6,7 @@
 
 # Now Git changes
 git add -A
-git commit -m "css for papers"
+git commit -m "see more see less abstract"
 git push
 
 # Now attempt to directly update website through SSH
