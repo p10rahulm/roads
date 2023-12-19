@@ -61,14 +61,14 @@ a:hover {
 
 .header #HeaderLogo {
     padding: 10px 10px 0 5px;
-    flex-basis: 50px;
+    flex-basis: 60px;
     /*flex-grow: 1;*/
     /*flex-shrink: 1;*/
     text-align: center;
 }
 
 .header #headerLogoImage {
-    height: 50px;
+    height: 60px;
 }
 
 .header #HeaderTitle {
