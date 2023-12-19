@@ -480,7 +480,8 @@ a:hover {
     padding-top: 0.5em;
     line-height: 1.6;
     /*font-style: italic;*/
-    color: #4eca91;
+    /*color: #4eca91;*/
+    color: #402d4f;
 }
 
 .mainer #papers-container .paper-card .paper-time:hover {
