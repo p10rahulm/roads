@@ -6,7 +6,7 @@
 
 # Now Git changes
 git add -A
-git commit -m "setting abstracts"
+git commit -m "added og meta image"
 git push
 
 # Now attempt to directly update website through SSH
