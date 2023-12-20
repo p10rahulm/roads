@@ -55,8 +55,7 @@ def parse_bibtex_as_markdown_files(input_file_path='content/papers/siddharth.bib
     # Process each entry
     for entry in bib_database.entries:
         title = entry.get('title', '').replace('\n', ' ')
-        # authors = entry.get('author', '').replace(' and ', ', ').replace('\n', ' ')
-        authors = entry.get('author', '').replace('\n', ' ')
+        authors = entry.get('author', '').replace('\n', ' ').replace(' and ', ', ')
         paper_link = entry.get('url', '').replace('\n', ' ')
         # Decide the format based on entry type
         if entry['ENTRYTYPE'] == 'article':

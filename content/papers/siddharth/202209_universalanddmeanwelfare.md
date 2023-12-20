@@ -1,6 +1,6 @@
 +++
 title = "Universal and Tight Online Algorithms for Generalized-Mean Welfare"
-authors = "Siddharth Barman and Arindam Khan and Arnab Maiti"
+authors = "Siddharth Barman, Arindam Khan, Arnab Maiti"
 paper_link = "https://doi.org/10.1609/aaai.v36i5.20406"
 publication_details = "Thirty-Sixth AAAI Conference on Artificial Intelligence,  AAAI 2022"
 conference_date = "2022"
