@@ -28,7 +28,7 @@ function createPersonCardHtml(personData) {
     <div class="person-card">
         <div class="person-image-holder">
             <a class="person-image-link-href" href="${personData.pageLink}" target="_blank">
-                <img class="person-image" src="content/people/images/${personData.photoFilename}" alt="${personData.name} Photo">
+                <img class="person-image" src="content/people/images/${personData.photoFilename}"  onerror="handleImageNotFoundError(this)" alt="${personData.name} Photo">
             </a>
         </div>
         <div class="person-main-details">

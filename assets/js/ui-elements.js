@@ -64,3 +64,7 @@ document.addEventListener('DOMContentLoaded', function() {
     console.log("setting see-more's")
 });
 
+
+function handleImageError(image) {
+    image.src = 'assets/images/generic_person_image.jpg';
+}
