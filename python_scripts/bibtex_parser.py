@@ -25,7 +25,7 @@ def format_apa_style(entry):
     volume = entry.get('volume', '').replace('\n', ' ')
     year = entry.get('year', '').replace('\n', ' ')
     url = entry.get('url', '').replace('\n', ' ')
-    return f"{journal}, {volume}, {year}, url: {url}"
+    return f"{journal}, {volume}, {year}, url: <a href='{url}' target='_blank'>{url}</a>."
 
 
 def format_conference_apa_style(entry):
