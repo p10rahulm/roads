@@ -66,7 +66,6 @@
     <script src="assets/js/home.js"></script>
     <script src="assets/js/ui-elements.js"></script>
     <script src="assets/js/paper_parser.js"></script>
-    <script src="assets/js/enqueue_divs_for_mathjax.js"></script>
 
     <!--fonts-->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
@@ -153,7 +152,9 @@
     <script type="text/javascript" id="MathJax-script" async
             src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
     </script>
+    <script type="text/x-mathjax-config" src="assets/js/enqueue_divs_for_mathjax.js" defer>
 
+    </script>
     <!-- Fallback script if CDN fails -->
     <script>
         // window.MathJax || document.write('<script src="/assets/js/mathjax322.min.js">\x3C/script>')
