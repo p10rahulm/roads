@@ -44,8 +44,8 @@ function createPaperHtml(paperData, fileName) {
                     <div class="paper-title"><b>Title:</b> ${paperData.title}</div>
                     <div class="paper-authors"><b>Authors:</b> ${paperData.authors}</div>
                 </a>
-                <span class="paper-release-date"><b>Date:</b> ${paperData.conferenceDate}</span> 
-                <span class="paper-publication-details"><b>Publication Details:</b> ${paperData.publicationDetails}</span>
+                <span class="paper-release-date">${paperData.conferenceDate}</span>
+                ${paperData.publicationDetails ? `<span class="paper-publication-details"><b>Publication Details:</b> ${paperData.publicationDetails}</span>` : ''}
             </div>
             <div class="paper-details-holder">
                 <div class="paper-abstract-short" onclick="seeMoreAbstract(this)">
@@ -55,9 +55,9 @@ function createPaperHtml(paperData, fileName) {
                 <div class="paper-notes">${paperData.notes}</div>
             </div>
         </div>
-        </div>
     `;
 }
+
 
 function updatePapersContent() {
     fetchPaperList().then(papersList => {

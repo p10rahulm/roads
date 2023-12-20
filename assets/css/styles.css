@@ -505,6 +505,7 @@ a:hover {
     /*color: #63beff;*/
     color: #365d7999;
     line-height: 1.6;
+    padding-left: 0.5em;
 }
 
 .mainer #papers-container .paper-card .paper-notes {
