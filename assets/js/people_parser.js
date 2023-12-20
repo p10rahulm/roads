@@ -42,16 +42,50 @@ function createPersonCardHtml(personData) {
 }
 
 
-
 function updatePeopleContent() {
     fetchPeopleList().then(peopleList => {
         peopleList.forEach(peoplePath => {
-            const fileName = peoplePath.split('/').pop().replace('.md', '');
             fetchPeopleContent(peoplePath)
                 .then(content => parsePeopleContent(content))
                 .then(peopleData => {
-                    const peopleHtml = createPersonCardHtml(peopleData, fileName);
-                    document.getElementById('people-container').innerHTML += peopleHtml;
+                    const peopleHtml = createPersonCardHtml(peopleData);
+                    let containerId = '';
+
+                    // Determine the container based on affiliation
+                    switch (peopleData.affiliationToLab) {
+                        case 'professor':
+                            containerId = 'professors-container';
+                            break;
+                        case 'mtech_research':
+                            containerId = 'mtech_research-container';
+                            break;
+                        case 'mtech':
+                            containerId = 'mtech-container';
+                            break;
+                        case 'postdoc_student':
+                            containerId = 'postdoc-container';
+                            break;
+                        case 'phd_student':
+                            containerId = 'phd-container';
+                            break;
+                        case 'alumni':
+                            containerId = 'alumni-container';
+                            break;
+                        case 'research_associate':
+                            containerId = 'ra-container';
+                            break;
+                        case 'intern':
+                            containerId = 'intern-container';
+                            break;
+                        case 'past_intern':
+                            containerId = 'past-intern-container';
+                            break;
+                        default:
+                            containerId = 'alumni-container'; // Default container
+                    }
+
+                    // Add HTML to the appropriate container
+                    document.getElementById(containerId).innerHTML += peopleHtml;
                 });
         });
     });
