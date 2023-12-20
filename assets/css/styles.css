@@ -126,7 +126,7 @@ a:hover {
 
 .header #navbar .navbar_button {
     padding: 10px min(2vw, 10px);
-    font-family: "Alegreya SC", Georgia, Times, "Times New Roman", serif;
+    font-family: "Roboto Slab", Georgia, Times, "Times New Roman", serif;
     font-size: max(1em, 12px);
     color: #0a3296;
 }
@@ -382,7 +382,6 @@ a:hover {
 }
 
 .mainer #papers-container .paper-card {
-    padding: 15px;
     box-shadow: 5px 10px 18px #f4f4f4;
     padding: 20px;
     border-radius: 5px;
