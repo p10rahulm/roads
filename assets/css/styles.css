@@ -37,7 +37,7 @@ a:hover {
 }
 
 .header {
-    top: 0px;
+    top: 0;
     grid-area: header;
     /*background-color: #f7f7f7;*/
     background-color: #fafafa;
