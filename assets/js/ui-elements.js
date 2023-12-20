@@ -65,6 +65,6 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 
-function handleImageError(image) {
+function handleImageNotFoundError(image) {
     image.src = 'assets/images/generic_person_image.jpg';
 }

@@ -19,7 +19,7 @@ function parsePeopleContent(content) {
     const photoFilename = metadata.match(/photo_filename = "(.*?)"/)[1];
     const notes = metadata.match(/notes = "(.*?)"/)[1];
 
-    return { name, affiliationToLab, currentRole, currentAffiliation, pageLink, photoFilename, notes };
+    return {name, affiliationToLab, currentRole, currentAffiliation, pageLink, photoFilename, notes};
 }
 
 
@@ -43,15 +43,15 @@ function createPersonCardHtml(personData) {
 
 function updateSubheadings() {
     const affiliations = [
-        { id: 'professors-container', title: 'Professors' },
-        { id: 'mtech_research-container', title: 'M.Tech Research Students' },
-        { id: 'mtech-container', title: 'M.Tech Students' },
-        { id: 'postdoc-container', title: 'Postdoc Students' },
-        { id: 'phd-container', title: 'Ph.D. Students' },
-        { id: 'alumni-container', title: 'Alumni' },
-        { id: 'ra-container', title: 'Research Associates' },
-        { id: 'intern-container', title: 'Interns' },
-        { id: 'past-intern-container', title: 'Past Interns' }
+        {id: 'professors-container', title: 'Professors'},
+        {id: 'mtech_research-container', title: 'M.Tech Research Students'},
+        {id: 'mtech-container', title: 'M.Tech Students'},
+        {id: 'postdoc-container', title: 'Postdoc Students'},
+        {id: 'phd-container', title: 'Ph.D. Students'},
+        {id: 'alumni-container', title: 'Alumni'},
+        {id: 'ra-container', title: 'Research Associates'},
+        {id: 'intern-container', title: 'Interns'},
+        {id: 'past-intern-container', title: 'Past Interns'}
     ];
 
 
@@ -67,8 +67,6 @@ function updateSubheadings() {
         }
     });
 }
-
-
 
 
 function updatePeopleContent() {
