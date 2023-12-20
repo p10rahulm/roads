@@ -772,9 +772,9 @@ a:hover {
     font-size: max(14px,1.25em);
 }
 
-.mainer .person-card .person-current-affiliation {
-    font-weight: bold;
-    color: #525252;
+.mainer .person-card .person-current-role {
+    font-weight: bolder;
+    color: #2b0f49;
     padding: 0 0 0.5em 0;
     margin: 10px auto;
     /*text-align: center;*/
@@ -785,7 +785,7 @@ a:hover {
 
 .mainer .person-card .person-current-affiliation {
     font-weight: bold;
-    color: #525252;
+    color: #402d4f;
     padding: 0 0 0.5em 0;
     margin: 10px auto;
     /*text-align: center;*/
