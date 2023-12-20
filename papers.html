@@ -63,8 +63,8 @@
     <link rel="stylesheet" href="assets/css/styles.css">
 
     <!--Scripts-->
-    <script src="assets/js/home.js"></script>
     <script src="assets/js/ui-elements.js"></script>
+    <script src="assets/js/paper_parser.js"></script>
 
     <!--fonts-->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
@@ -88,7 +88,7 @@
 
         <div id="navbar" class="header-elem">
             <div id="navbar-Papers" class="navbar_button">
-                <a href="papers.html">Papers</a>
+                <a href="/">Home</a>
             </div>
             <div id="navbar-People" class="navbar_button">
                 <a href="people.html">People</a>
@@ -99,10 +99,14 @@
 
     </div>
     <div class="mainer container-element">
-        <div id="recent-news-heading" class="section-heading">
-            Recent News
+
+
+
+        <div id="research-papers-heading" class="section-heading">
+            List of Papers
         </div>
-        <div id="news-content" class="home-textpara"></div>
+
+        <div id="papers-container" class="main active"></div>
 
 
 
@@ -116,6 +120,14 @@
         </div>
 
     </div>
+
+
+
+    <!--Loading the papers on the website-->
+    <script>
+        updatePapersContent()
+    </script>
+
 
 
     <script type="text/x-mathjax-config" defer>

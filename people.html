@@ -65,6 +65,8 @@
     <!--Scripts-->
     <script src="assets/js/home.js"></script>
     <script src="assets/js/ui-elements.js"></script>
+    <script src="assets/js/paper_parser.js"></script>
+    <script src="assets/js/people_parser.js"></script>
 
     <!--fonts-->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
@@ -88,10 +90,10 @@
 
         <div id="navbar" class="header-elem">
             <div id="navbar-Papers" class="navbar_button">
-                <a href="papers.html">Papers</a>
+                <a href="/">Home</a>
             </div>
             <div id="navbar-People" class="navbar_button">
-                <a href="people.html">People</a>
+                <a href="papers.html">Papers</a>
             </div>
 
         </div>
@@ -99,12 +101,19 @@
 
     </div>
     <div class="mainer container-element">
-        <div id="recent-news-heading" class="section-heading">
-            Recent News
+        <div id="people-heading" class="section-heading">
+            People
         </div>
-        <div id="news-content" class="home-textpara"></div>
 
-
+        <div id="professors-container" class="people-group main flexHolder"></div>
+        <div id="postdoc-container" class="people-group main flexHolder"></div>
+        <div id="phd-container" class="people-group main flexHolder"></div>
+        <div id="ra-container" class="people-group main flexHolder"></div>
+        <div id="mtech_research-container" class="people-group main flexHolder"></div>
+        <div id="mtech-container" class="people-group main flexHolder"></div>
+        <div id="intern-container" class="people-group main flexHolder"></div>
+        <div id="alumni-container" class="people-group main flexHolder"></div>
+        <div id="past-intern-container" class="people-group main flexHolder"></div>
 
 
     </div>
@@ -116,6 +125,16 @@
         </div>
 
     </div>
+
+
+
+    <!--Loading algos folks details-->
+    <script>
+        updatePeopleContentWithPromise().then(() => {
+            updateSubheadings(); // Call this after all people content is updated
+        });
+    </script>
+
 
 
     <script type="text/x-mathjax-config" defer>
