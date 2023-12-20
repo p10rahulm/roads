@@ -128,7 +128,7 @@ a:hover {
     padding: 10px min(2vw, 10px);
     font-family: "Roboto Slab", Georgia, Times, "Times New Roman", serif;
     font-size: max(1em, 12px);
-    color: #0a3296;
+    color: #2c9268;
 }
 
 .header #navbar .navbar_button:hover {
@@ -136,9 +136,7 @@ a:hover {
 }
 
 .header #navbar .navbar_button a {
-    font-family: "Alegreya SC", Georgia, Times, "Times New Roman", serif;
     font-size: max(1em, 12px);
-    /*color: #0a3296;*/
 }
 
 .header #navbar .navbar-active {
