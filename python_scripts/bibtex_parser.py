@@ -43,7 +43,8 @@ def format_conference_apa_style(entry):
     pages = entry.get('pages', '').replace('\n', ' ')
     publisher = entry.get('publisher', '').replace('\n', ' ')
     url = entry.get('url', '').replace('\n', ' ')
-    return f"({year}). In {booktitle} (pp. {pages}). {publisher}, url: <a href='{url}' target='_blank'>{url}</a>."
+    return f"{booktitle}"
+#     return f"({year}). In {booktitle} (pp. {pages}). {publisher}, url: <a href='{url}' target='_blank'>{url}</a>."
 
 
 def parse_bibtex_as_markdown_files(input_file_path='content/papers/siddharth.bib',output_file_path="outputs/siddharth/"):
