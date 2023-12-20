@@ -30,18 +30,22 @@ function parsePaperContent(content) {
     const publicationDetails = metadata.match(/publication_details = "(.*?)"/)[1];
     const conferenceDate = metadata.match(/conference_date = "(.*?)"/)[1];
     const notes = metadata.match(/notes = "(.*?)"/)[1];
+    const paperlink = metadata.match(/paper_link = "(.*?)"/)[1];
 
-    return {title, authors, publicationDetails, conferenceDate, abstract, notes};
+
+    return {title, authors, publicationDetails, conferenceDate, abstract, notes, paperlink};
 }
 
 function createPaperHtml(paperData, fileName) {
     return `
         <div id="${fileName}" class="paper-card paper-fullpage">
             <div class="paper-main-holder">
-                <div class="paper-title"><b>Title:</b> ${paperData.title}</div>
-                <div class="paper-authors"><b>Authors:</b> ${paperData.authors}</div>
+                <a href="${paperData.paperlink}" target="_blank">
+                    <div class="paper-authors"><b>Authors:</b> ${paperData.authors}</div>
+                    <div class="paper-title"><b>Title:</b> ${paperData.title}</div>
                 <div class="paper-publication-details"><b>Publication Details:</b> ${paperData.publicationDetails}</div>
                 <div class="paper-release-date"><b>Date:</b> ${paperData.conferenceDate}</div>
+                </a>
             </div>
             <div class="paper-details-holder">
                 <div class="paper-abstract-short" onclick="seeMoreAbstract(this)">
