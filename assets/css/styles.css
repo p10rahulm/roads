@@ -128,7 +128,7 @@ a:hover {
     padding: 10px min(2vw, 10px);
     font-family: "Alegreya SC", Georgia, Times, "Times New Roman", serif;
     font-size: max(1em, 12px);
-    color: #cc0000;
+    color: #0a3296;
 }
 
 .header #navbar .navbar_button:hover {
@@ -138,7 +138,7 @@ a:hover {
 .header #navbar .navbar_button a {
     font-family: "Alegreya SC", Georgia, Times, "Times New Roman", serif;
     font-size: max(1em, 12px);
-    color: #cc0000;
+    /*color: #0a3296;*/
 }
 
 .header #navbar .navbar-active {
@@ -627,7 +627,7 @@ a:hover {
     font-family: Lora, Georgia, Cambria, Times, "Times New Roman", serif;
     color: #093598;
     border-bottom: 1px solid #ececec;
-    padding: 5px 0px 10px 0px;
+    padding: 5px 0 10px 0;
     font-weight: bold;
 }
 
@@ -793,7 +793,7 @@ a:hover {
     font-weight: bold;
     color: #402d4f;
     padding: 0 0 0.5em 0;
-    margin: 0px auto 10px;
+    margin: 0 auto 10px;
     /*text-align: center;*/
     font-size: max(12px, 1em);
     /*font-family: "Lora", Georgia, Cambria, Times, "Times New Roman", Serif;*/
