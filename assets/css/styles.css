@@ -107,6 +107,9 @@ a:hover {
 }
 
 @media screen and (max-width: 720px) {
+    .header #HeaderLogo{
+        opacity: 56%;
+    }
     .header #HeaderTitle {
         text-align: center;
     }
@@ -115,6 +118,9 @@ a:hover {
         justify-content: center;
         flex-grow: 1;
         flex-wrap: wrap;
+    }
+    .person-card{
+        text-align: center;
     }
 }
 
