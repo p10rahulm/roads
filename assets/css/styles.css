@@ -129,6 +129,7 @@ a:hover {
     font-family: "Roboto Slab", Georgia, Times, "Times New Roman", serif;
     font-size: max(1em, 12px);
     color: #2c9268;
+    font-weight: bold;
 }
 
 .header #navbar .navbar_button:hover {
