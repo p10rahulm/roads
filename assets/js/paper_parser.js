@@ -41,11 +41,12 @@ function createPaperHtml(paperData, fileName) {
         <div id="${fileName}" class="paper-card paper-fullpage">
             <div class="paper-main-holder">
                 <a href="${paperData.paperlink}" target="_blank">
-                    <div class="paper-authors"><b>Authors:</b> ${paperData.authors}</div>
                     <div class="paper-title"><b>Title:</b> ${paperData.title}</div>
+                    <div class="paper-authors"><b>Authors:</b> ${paperData.authors}</div>
+                </a>
                 <div class="paper-publication-details"><b>Publication Details:</b> ${paperData.publicationDetails}</div>
                 <div class="paper-release-date"><b>Date:</b> ${paperData.conferenceDate}</div>
-                </a>
+                
             </div>
             <div class="paper-details-holder">
                 <div class="paper-abstract-short" onclick="seeMoreAbstract(this)">
