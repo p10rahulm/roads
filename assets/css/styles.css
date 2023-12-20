@@ -712,6 +712,7 @@ a:hover {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    height: 150px;
 }
 
 
@@ -754,9 +755,6 @@ a:hover {
 
 
 
-
-
-
 .mainer .person-card .person-main-details {
     font-weight: bold;
     /*color: #f77e7e;*/
@@ -785,3 +783,13 @@ a:hover {
     /*border-bottom: 1px solid rgba(0, 26, 250, 0.12);*/
 }
 
+.mainer .person-card .person-current-affiliation {
+    font-weight: bold;
+    color: #525252;
+    padding: 0 0 0.5em 0;
+    margin: 10px auto;
+    /*text-align: center;*/
+    font-size: max(12px, 1em);
+    /*font-family: "Lora", Georgia, Cambria, Times, "Times New Roman", Serif;*/
+    /*border-bottom: 1px solid rgba(0, 26, 250, 0.12);*/
+}
