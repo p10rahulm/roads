@@ -37,6 +37,28 @@ function parsePaperContent(content) {
 }
 
 function createPaperHtml(paperData, fileName) {
+    // Check if publications details is empty, else create the paper-publication-details span
+    let publicationDetailsHtml = '';
+    if (paperData.publicationDetails) {
+        publicationDetailsHtml = `
+        <span class="paper-publication-details">
+            <b>Publication Details:</b> ${paperData.publicationDetails}
+        </span>`;
+    }
+    // Check if abstract is empty, else create the abstract div
+    let abstractHtml = '';
+    if (paperData.abstract && paperData.abstract.trim() !== '') {
+        abstractHtml = `
+        <div class="paper-details-holder">
+            <div class="paper-abstract-short" onclick="seeMoreAbstract(this)">
+                <b>Abstract:</b> 
+                ${paperData.abstract}
+            </div>
+            <div class="paper-notes">${paperData.notes}</div>
+        </div>
+    `;
+    }
+
     return `
         <div id="${fileName}" class="paper-card paper-fullpage">
             <div class="paper-main-holder">
@@ -45,15 +67,9 @@ function createPaperHtml(paperData, fileName) {
                     <div class="paper-authors"><b>Authors:</b> ${paperData.authors}</div>
                 </a>
                 <span class="paper-release-date">${paperData.conferenceDate}</span>
-                ${paperData.publicationDetails ? `<span class="paper-publication-details"><b>Publication Details:</b> ${paperData.publicationDetails}</span>` : ''}
+                ${publicationDetailsHtml}
             </div>
-            <div class="paper-details-holder">
-                <div class="paper-abstract-short" onclick="seeMoreAbstract(this)">
-                    <b>Abstract:</b> 
-                    ${paperData.abstract}
-                </div>
-                <div class="paper-notes">${paperData.notes}</div>
-            </div>
+            ${abstractHtml}
         </div>
     `;
 }
