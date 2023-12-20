@@ -155,7 +155,9 @@
     </script>
     <!--Loading algos folks details-->
     <script>
-        updatePeopleContent()
+        updatePeopleContentWithPromise().then(() => {
+            updateSubheadings(); // Call this after all people content is updated
+        });
     </script>
 
 
