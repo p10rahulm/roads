@@ -117,8 +117,14 @@ function loadMorePapers() {
     fetchPaperList().then(papersList => {
         currentPaperIndex += papersPerPage;
         loadPapers(papersList, currentPaperIndex);
+        if (currentPaperIndex >= papersList.length) {
+            // Hide the Load More button if there are no more papers to load
+            document.getElementById('load-more').style.display = 'none';
+        }
     });
 }
+
+
 
 /*
 document.addEventListener('DOMContentLoaded', function() {
