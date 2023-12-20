@@ -6,7 +6,7 @@
 
 # Now Git changes
 git add -A
-git commit -m "we study cs theory"
+git commit -m "requirements.txt"
 git push
 
 # Now attempt to directly update website through SSH
