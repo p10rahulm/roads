@@ -68,8 +68,6 @@ function updateSubheadings() {
     });
 }
 
-// Call this function after you've updated the content of the containers
-updateSubheadings();
 
 
 
