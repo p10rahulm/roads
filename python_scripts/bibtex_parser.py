@@ -10,6 +10,9 @@ def format_date(timestamp):
     date = datetime.strptime(timestamp, '%a, %d %b %Y %H:%M:%S %z')
     return date.strftime('%Y-%m')
 
+def format_month(timestamp):
+    date = datetime.strptime(timestamp, '%a, %d %b %Y %H:%M:%S %z')
+    return date.strftime('%m')
 
 def format_date_for_filename(timestamp):
     date = datetime.strptime(timestamp, '%a, %d %b %Y %H:%M:%S %z')
@@ -55,11 +58,12 @@ def parse_bibtex_as_markdown_files(input_file_path='content/papers/siddharth.bib
             publication_details = format_conference_apa_style(entry)
 
         timestamp = entry.get('timestamp', ' ')
-        # conference_date = format_date(timestamp) if timestamp else ''
         conference_date = entry.get('year')
+        conference_month = format_month(timestamp)
+        conference_year = entry.get('year')
 
         # file_name_prefix = format_date_for_filename(timestamp) + "_"
-        file_name_prefix = conference_date + "_"
+        file_name_prefix = conference_year + conference_month + "_"
         file_name_title_postfix =format_title_for_filename(title)
         # Create and write to a new file
         file_name = f"{output_file_path}{file_name_prefix}{file_name_title_postfix}.md"
