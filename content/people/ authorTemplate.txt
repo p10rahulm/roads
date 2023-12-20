@@ -1,0 +1,15 @@
++++
+name = "Bharat Singh"
+affiliation_to_lab = "professor/mtech_research/mtech/postdoc_student/phd_student/alumni/research_associate/intern/past_intern"
+current_role = "Professor/Asst. Professor/Assoc. Professor/PhD Student/Company Designation/Research Fellow/Postdoc Student/Research Associate/..."
+current_affiliation = "NUS (Singapore)"
+page_link = "https://www.linkedin.com/in/sayak-ray-chowdhury-54878154/?originalSubdomain=in"
+photo_filename = "firstnameLastname.jpg"
+notes = "Any Additional Notes"
++++
+
+Notes:
+- For Photo
+    dim = "100x100px"
+    photo_filename = "rameeshPaul.jpg"
+    

@@ -6,7 +6,7 @@
 
 # Now Git changes
 git add -A
-git commit -m "changed mathjax"
+git commit -m "adding people now"
 git push
 
 # Now attempt to directly update website through SSH
