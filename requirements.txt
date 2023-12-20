@@ -1,0 +1,2 @@
+beautifulsoup4==4.8.1
+bibtexparser==1.4.1
