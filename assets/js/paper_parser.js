@@ -45,7 +45,7 @@ function createPaperHtml(paperData, fileName) {
                     <div class="paper-authors"><b>Authors:</b> ${paperData.authors}</div>
                 </a>
                 <span class="paper-release-date"><b>Date:</b> ${paperData.conferenceDate}</span> 
-                <div class="paper-publication-details"><b>Publication Details:</b> ${paperData.publicationDetails}</div>
+                <span class="paper-publication-details"><b>Publication Details:</b> ${paperData.publicationDetails}</span>
             </div>
             <div class="paper-details-holder">
                 <div class="paper-abstract-short" onclick="seeMoreAbstract(this)">
