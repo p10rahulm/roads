@@ -775,7 +775,7 @@ a:hover {
 .mainer .person-card .person-current-role {
     font-weight: bolder;
     color: #2b0f49;
-    padding: 0 0 0.5em 0;
+    padding: 0.5em 0 0  0;
     margin: 10px auto 0px;
     /*text-align: center;*/
     font-size: max(12px, 1em);
