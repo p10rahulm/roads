@@ -686,3 +686,102 @@ a:hover {
     color: #a2a2a2;
     font-family: "Open Sans", Georgia, Cambria, "Times New Roman", Times, serif;
 }
+
+.mainer .flexHolder {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    align-content: space-between;
+    row-gap: 10px;
+    column-gap: 50px;
+    margin-top: 15px;
+}
+
+
+.mainer .person-card {
+    padding: 10px 20px;
+    box-shadow: 5px 10px 18px #f4f4f4;
+    border-radius: 5px;
+    display: flex;
+    flex-basis: 330px;
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.mainer .person-card:hover {
+    /*transition: transform .75s;*/
+    transition: transform .75s;
+    /*transform: translateY(-10px);*/
+    transform: translateY(-5px);
+}
+
+
+.mainer .person-card .person-image-holder {
+    flex-basis: 135px;
+    flex-grow: 0;
+    text-align: center;
+    /*float: left;*/
+}
+
+.mainer .person-card .person-image {
+    height: 120px;
+    width: 120px;
+    margin: 15px auto;
+    border-radius: 10%;
+}
+
+.mainer .person-card .speaker-main-holder {
+    flex-basis: 225px;
+    flex-grow: 1;
+    flex-shrink: 0;
+    /*float: left;*/
+}
+
+.mainer .person-card .speaker-details-holder {
+    flex-basis: 100%;
+    flex-grow: 1;
+    flex-shrink: 1;
+    min-width: 0;
+    /*float: left;*/
+}
+
+
+
+
+
+
+.mainer .person-card .person-main-details {
+    font-weight: bold;
+    /*color: #f77e7e;*/
+    color: #873307;
+    padding: 0 0 0.5em 0;
+    margin: 5px 0;
+    width: 300px;
+    /*text-align: center;*/
+    /*border-bottom: 1px solid rgba(0, 26, 250, 0.12);*/
+}
+
+.mainer .person-card .person-link-href {
+    /*text-decoration-color: #f77e7e;*/
+    text-decoration-color: #873307;
+    font-size: max(14px,1.25em);
+}
+
+.mainer .person-card .person-current-affiliation {
+    font-weight: bold;
+    color: #525252;
+    padding: 0 0 0.5em 0;
+    margin: 10px auto;
+    /*text-align: center;*/
+    font-size: max(12px, 1em);
+    /*font-family: "Lora", Georgia, Cambria, Times, "Times New Roman", Serif;*/
+    /*border-bottom: 1px solid rgba(0, 26, 250, 0.12);*/
+}
+

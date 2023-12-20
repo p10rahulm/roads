@@ -6,7 +6,7 @@
 
 # Now Git changes
 git add -A
-git commit -m "people parser"
+git commit -m "css of people"
 git push
 
 # Now attempt to directly update website through SSH

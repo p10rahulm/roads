@@ -31,7 +31,7 @@ function createPersonCardHtml(personData) {
                 <img class="person-image" src="content/people/images/${personData.photoFilename}" alt="${personData.name} Photo">
             </a>
         </div>
-        <div class="person-speaker">
+        <div class="person-main-details">
             <a class="person-link-href" href="${personData.pageLink}" target="_blank">
                 ${personData.name}
             </a>
