@@ -32,7 +32,13 @@ def format_apa_style(entry):
 
 
 def format_conference_apa_style(entry):
-    booktitle = entry.get('booktitle', '').replace('\n', ' ')
+    booktitle_initial = entry.get('booktitle', '').replace('\n', ' ')
+    booktitle_cleaned = re.sub(r'[{}]', '', booktitle_initial)
+    # Split the string at commas and take the first two parts
+    booktitle_parts = booktitle_cleaned.split(',', 2)[:2]
+    # Combine the parts to get the text up to the second comma
+    booktitle = ', '.join(booktitle_parts).strip()
+
     year = entry.get('year', '').replace('\n', ' ')
     pages = entry.get('pages', '').replace('\n', ' ')
     publisher = entry.get('publisher', '').replace('\n', ' ')
