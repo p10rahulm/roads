@@ -13,7 +13,7 @@ def write_files_to_files_list(directory = 'content/papers/', output_file = 'cont
 
 if __name__=="__main__":
     start_time=time.time()
-    write_files_to_files_list(directory = 'content/papers/', output_file = 'content/papers/papers_list_new.txt')
+    write_files_to_files_list(directory = 'content/papers/', output_file = 'content/papers/papers_list.txt')
 
     print("File list created successfully.")
     print("time taken = %d seconds"%(time.time()-start_time))

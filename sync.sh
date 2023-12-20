@@ -6,7 +6,7 @@
 
 # Now Git changes
 git add -A
-git commit -m "Siddharth files added"
+git commit -m "recreated papers list"
 git push
 
 # Now attempt to directly update website through SSH

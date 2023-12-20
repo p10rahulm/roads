@@ -62,7 +62,7 @@ def parse_bibtex_as_markdown_files(input_file_path='content/papers/siddharth.bib
         file_name_prefix = conference_date + "_"
         file_name_title_postfix =format_title_for_filename(title)
         # Create and write to a new file
-        file_name = f"{output_file_path}{file_name_prefix}{file_name_title_postfix}.txt"
+        file_name = f"{output_file_path}{file_name_prefix}{file_name_title_postfix}.md"
         with open(file_name, 'w') as file:
             file.write(f"+++\ntitle = \"{title}\"\nauthors = \"{authors}\"\npaper_link = \"{paper_link}\"\n")
             file.write(
