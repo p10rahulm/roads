@@ -776,7 +776,7 @@ a:hover {
     font-weight: bolder;
     color: #2b0f49;
     padding: 0 0 0.5em 0;
-    margin: 10px auto;
+    margin: 10px auto 0px;
     /*text-align: center;*/
     font-size: max(12px, 1em);
     /*font-family: "Lora", Georgia, Cambria, Times, "Times New Roman", Serif;*/
@@ -787,7 +787,7 @@ a:hover {
     font-weight: bold;
     color: #402d4f;
     padding: 0 0 0.5em 0;
-    margin: 10px auto;
+    margin: 0px auto 10px;
     /*text-align: center;*/
     font-size: max(12px, 1em);
     /*font-family: "Lora", Georgia, Cambria, Times, "Times New Roman", Serif;*/
