@@ -6,7 +6,7 @@
 
 # Now Git changes
 git add -A
-git commit -m "split into three files."
+git commit -m "load more button."
 git push
 
 # Now attempt to directly update website through SSH

@@ -75,6 +75,23 @@ function createPaperHtml(paperData, fileName) {
 }
 
 
+let currentPaperIndex = 0;
+const papersPerPage = 20; // Number of papers per page
+
+function loadPapers(papersList, startIndex) {
+    const endIndex = startIndex + papersPerPage;
+    for (let i = startIndex; i < endIndex && i < papersList.length; i++) {
+        const fileName = papersList[i].split('/').pop().replace('.md', '');
+        fetchPaperContent(papersList[i])
+            .then(content => parsePaperContent(content))
+            .then(paperData => {
+                const paperHtml = createPaperHtml(paperData, fileName);
+                document.getElementById('papers-container').innerHTML += paperHtml;
+            });
+    }
+}
+
+/*
 function updatePapersContent() {
     fetchPaperList().then(papersList => {
         papersList.forEach(paperPath => {
@@ -86,6 +103,20 @@ function updatePapersContent() {
                     document.getElementById('papers-container').innerHTML += paperHtml;
                 });
         });
+    });
+}
+*/
+
+function updatePapersContent() {
+    fetchPaperList().then(papersList => {
+        loadPapers(papersList, currentPaperIndex);
+    });
+}
+
+function loadMorePapers() {
+    fetchPaperList().then(papersList => {
+        currentPaperIndex += papersPerPage;
+        loadPapers(papersList, currentPaperIndex);
     });
 }
 
