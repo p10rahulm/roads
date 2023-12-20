@@ -68,3 +68,7 @@ document.addEventListener('DOMContentLoaded', function() {
 function handleImageNotFoundError(image) {
     image.src = 'assets/images/generic_person_image.jpg';
 }
+
+function clickLogo() {
+    window.location.href = '/'; // Assuming '/' is your home page URL
+}
