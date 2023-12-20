@@ -2,7 +2,7 @@
 title = "Finding Fair Allocations under Budget Constraints"
 authors = "Siddharth Barman and Arindam Khan and Sudarshan Shyam and K. V. N. Sreenivas"
 paper_link = "https://doi.org/10.1609/aaai.v37i5.25681"
-publication_details = "(2023). In Thirty-Seventh AAAI Conference on Artificial Intelligence,  AAAI 2023 (pp. 5481--5489). {AAAI} Press, url: <a href='https://doi.org/10.1609/aaai.v37i5.25681' target='_blank'>https://doi.org/10.1609/aaai.v37i5.25681</a>."
+publication_details = "Thirty-Seventh AAAI Conference on Artificial Intelligence,  AAAI 2023"
 conference_date = "2023"
 notes = ""
 +++
