@@ -6,12 +6,12 @@
 
 # Now Git changes
 git add -A
-git commit -m "README!"
+git commit -m "readme setup"
 git push
 
 # Now attempt to directly update website through SSH
 # Ensure local computer's ssh credentials are added to remote machine's ~/.ssh/authorized_keys
-echo "updating https://events.csa.iisc.ac.in/algorithmic-fairness-2023/"
+echo "updating https://algo.csa.iisc.ac.in/"
 ssh -t algo@csacloud.iisc.ac.in -p 3232 "./syncroads.sh"
 echo "Please check that the website http://algo.csa.iisc.ac.in/"
 echo "and https://algo.csa.iisc.ac.in/ are updated"
