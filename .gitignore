@@ -13,3 +13,4 @@ synchronizeCloudMac.sh
 *.sass.map
 *.scss.map
 
+venv/
