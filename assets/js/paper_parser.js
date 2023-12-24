@@ -42,7 +42,7 @@ function createPaperHtml(paperData, fileName) {
     if (paperData.publicationDetails) {
         publicationDetailsHtml = `
         <span class="paper-publication-details">
-            <b>Publication Details:</b> ${paperData.publicationDetails}
+            ${paperData.publicationDetails}
         </span>`;
     }
     // Check if abstract is empty, else create the abstract div
