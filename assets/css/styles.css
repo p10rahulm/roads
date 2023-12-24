@@ -123,6 +123,10 @@ a:hover {
     .person-card {
         text-align: center;
     }
+    .paper-image-holder{
+        flex-basis: 100%;
+        margin-bottom: 10px;
+    }
 }
 
 .header #navbar .navbar_button {
@@ -273,14 +277,17 @@ a:hover {
 }
 
 .mainer #papers-container .paper-card .paper-image-conference {
-    background-color: #00bd43;
+    /*background-color: #00bd43;*/
+    /*background-color: #ff8e02;*/
+    background-color: #ffc402;
     /*background-color: #0aa500;*/
     color: whitesmoke;
 }
 
 .mainer #papers-container .paper-card .paper-image-journal {
     /*background-color: #5f1b9f;*/
-    background-color: #5e02b5;
+    /*background-color: #5e02b5;*/
+    background-color: #02b594;
     color: whitesmoke;
 }
 
