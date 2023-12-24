@@ -688,10 +688,12 @@ a:hover {
     font-size: x-large;
     font-family: "Roboto Slab", Georgia, Times, "Times New Roman", serif;
     text-align: center;
+    margin: 0 auto;
 }
 
 .twitter-timeline-frame {
     max-height: 500px;
     height: 70vh;
     overflow-y: auto;
+    margin: 0 auto;
 }
