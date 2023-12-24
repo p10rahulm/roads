@@ -124,7 +124,7 @@ a:hover {
         text-align: center;
     }
     .paper-image-holder{
-        flex-basis: 100%;
+        flex-basis: 100% !important;
         margin-bottom: 10px;
     }
 }
