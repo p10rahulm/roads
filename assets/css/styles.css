@@ -683,6 +683,12 @@ a:hover {
     display: none;
 }
 
+.twitter-timeline {
+    font-weight: bold;
+    font-size: large;
+    font-family: "Roboto Slab", Georgia, Times, "Times New Roman", serif;
+}
+
 .twitter-timeline-frame {
     max-height: 500px;
     height: 70vh;
