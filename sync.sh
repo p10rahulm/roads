@@ -6,7 +6,7 @@
 
 # Now Git changes
 git add -A
-git commit -m "readme setup"
+git commit -m "twitter on front page"
 git push
 
 # Now attempt to directly update website through SSH
