@@ -11,7 +11,7 @@ python python_scripts/parse_intro_in_homepage.py
 
 # Now Git changes
 git add -A
-git commit -m "Changed sync file, and changes to home page parsing."
+git commit -m "Papers css"
 git push
 
 # Now attempt to directly update website through SSH

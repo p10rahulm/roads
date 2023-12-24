@@ -331,7 +331,8 @@ a:hover {
 .mainer #papers-container .paper-card .paper-title {
     font-weight: bold;
     /*color: #005999;*/
-    color: #545454;
+    /*color: #545454;*/
+    color: #931616;
     line-height: 1.6;
 }
 
@@ -342,7 +343,8 @@ a:hover {
 .mainer #papers-container .paper-card .paper-authors {
     font-weight: bold;
     /*color: #f77e7e;*/
-    color: #244270;
+    /*color: #244270;*/
+    color: #0056b1;
     padding: 0 0 0.5em 0;
     border-bottom: 1px solid rgba(0, 26, 250, 0.12);
 }
@@ -352,6 +354,7 @@ a:hover {
 }
 
 .mainer #papers-container .paper-card .paper-release-date {
+    font-family: "Roboto Slab", Georgia, Times, "Times New Roman", serif;
     padding: 0.5em 0.5em 0 0;
     line-height: 1.6;
     /*font-style: italic;*/
@@ -364,7 +367,9 @@ a:hover {
 }
 
 .mainer #papers-container .paper-card .paper-publication-details {
-    color: #365d7999;
+    font-family: "Roboto Slab", Georgia, Times, "Times New Roman", serif;
+    /*color: #365d7999;*/
+    color: #0d7541;
     line-height: 1.6;
     padding-left: 0.5em;
 }
