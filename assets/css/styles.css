@@ -682,3 +682,8 @@ a:hover {
 .load-more-invisible {
     display: none;
 }
+
+.twitter-timeline-frame {
+    height: 500px;
+    overflow-y: auto;
+}
