@@ -7,7 +7,9 @@ development and analysis of algorithms, with researchers who wield a variety of 
 Our group has a breadth across a variety of areas including computational geometry, foundations of machine learning,
 online learning and optimization.
 
-### *Research Focus:*
+### Research Focus
+
+Our research primarily encompasses the following aspects:
 
 - **Algorithmic Research**: Our primary research involves the theoretical and empirical study of algorithms. This
   includes the development of new algorithms, analysis of existing ones, and optimization for enhanced performance.
@@ -22,6 +24,5 @@ online learning and optimization.
   scientists. We provide mentorship and instruction, emphasizing the development of both theoretical understanding and
   practical skills.
 
-The Algorithms, Data Structures, and Foundations of Machine Learning group at IISc Bangalore is committed to
-contributing to the body of knowledge in computer science, promoting innovation, and fostering the next generation of
-researchers and practitioners in the field.
+The ROADS group at IISc Bangalore is committed to contributing to the body of knowledge in computer science, promoting
+innovation, and fostering the next generation of researchers and practitioners in the field.

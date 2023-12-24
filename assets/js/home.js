@@ -7,17 +7,3 @@ fetch('content/recent_news/recent_news.txt')
         document.getElementById('news-content').innerHTML = `<ul>${listItems}</ul>`;
     })
     .catch(error => console.error('Error loading news:', error));
-
-// Load the intro
-document.addEventListener('DOMContentLoaded', function() {
-    fetch('content/intro.md')
-        .then(response => response.text())
-        .then(markdown => {
-            const htmlContent = marked(markdown);
-            document.getElementById('intro-content').innerHTML = htmlContent;
-        })
-        .catch(error => {
-            console.error('Error fetching intro content:', error);
-            document.getElementById('intro-content').innerHTML = 'Failed to load content.';
-        });
-});

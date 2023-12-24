@@ -3,10 +3,15 @@
 # 1. Ensure "gcloud auth login" is already done
 # 2. Ensure that you are on the IISc CISCO VPN
 
+# Run the appropriate python scripts
+python python_scripts/download_bibs_from_dblp.py
+python python_scripts/bibtex_parser.py
+python python_scripts/create_papers_list.py
+python python_scripts/parse_intro_in_homepage.py
 
 # Now Git changes
 git add -A
-git commit -m "Introduction on front page"
+git commit -m "Changed sync file, and changes to home page parsing."
 git push
 
 # Now attempt to directly update website through SSH
