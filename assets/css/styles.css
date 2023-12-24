@@ -684,6 +684,7 @@ a:hover {
 }
 
 .twitter-timeline-frame {
-    height: 500px;
+    max-height: 500px;
+    height: 70vh;
     overflow-y: auto;
 }
