@@ -359,7 +359,8 @@ a:hover {
     line-height: 1.6;
     /*font-style: italic;*/
     /*color: #4eca91;*/
-    color: #402d4f;
+    /*color: #402d4f;*/
+    color: #05528b;
 }
 
 .mainer #papers-container .paper-card .paper-time:hover {
