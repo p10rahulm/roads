@@ -1,8 +1,13 @@
 beautifulsoup4==4.12.2
 bibtexparser==1.4.1
 bs4==0.0.1
+certifi==2023.11.17
+charset-normalizer==3.3.2
+idna==3.6
 importlib-metadata==7.0.1
 Markdown==3.5.1
 pyparsing==3.1.1
+requests==2.31.0
 soupsieve==2.5
+urllib3==2.1.0
 zipp==3.17.0
