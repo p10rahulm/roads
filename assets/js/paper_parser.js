@@ -58,10 +58,14 @@ function createPaperHtml(paperData, fileName, fileNumber) {
         </div>
     `;
     }
+    let imageClass = 'paper-image-journal'
+    if (fileNumber[0] === 'C') {
+        imageClass = 'paper-image-conference'
+    }
 
     return `
         <div id="${fileName}" class="paper-card paper-fullpage">
-            <div class="paper-image-holder">${fileNumber}</div>
+            <div class="paper-image-holder ${imageClass}">${fileNumber}</div>
             <div class="paper-main-holder">
                 <a href="${paperData.paperlink}" target="_blank">
                     <div class="paper-title"><b>Title:</b> ${paperData.title}</div>
@@ -125,7 +129,6 @@ function loadMorePapers() {
         }
     });
 }
-
 
 
 /*

@@ -260,11 +260,28 @@ a:hover {
     align-items: center;
 }
 
-.mainer #papers-container .paper-card .speaker-image-holder {
-    flex-basis: 135px;
+.mainer #papers-container .paper-card .paper-image-holder {
+    flex-basis: 42px;
+    height: 42px;
+    line-height: 42px;
+    align-items: flex-end;
     flex-grow: 0;
     text-align: center;
-    /*float: left;*/
+    margin-right: 15px;
+    font-family: "Roboto Slab", Georgia, Times, "Times New Roman", serif;
+    font-weight: bold;
+}
+
+.mainer #papers-container .paper-card .paper-image-conference {
+    background-color: #00bd43;
+    /*background-color: #0aa500;*/
+    color: whitesmoke;
+}
+
+.mainer #papers-container .paper-card .paper-image-journal {
+    /*background-color: #5f1b9f;*/
+    background-color: #5e02b5;
+    color: whitesmoke;
 }
 
 .mainer #papers-container .paper-card .speaker-image {
