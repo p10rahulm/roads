@@ -83,8 +83,12 @@ def parse_bibtex_as_markdown_files(input_file_path='content/papers/siddharth.bib
 
 if __name__=="__main__":
     start_time=time.time()
-    parse_bibtex_as_markdown_files(input_file_path='content/papers/siddharth.bib',
-                                   output_file_path="content/papers/siddharth/")
+    people_list_to_parse = ['anand','arindam','rahul','siddharth']
+    for person in people_list_to_parse:
+        input_file_path =  'content/papers/'+ person + '.bib'
+        output_file_path =  'content/papers/'+ person + '/'
+        parse_bibtex_as_markdown_files(input_file_path=input_file_path,
+                                       output_file_path=output_file_path)
 
 
     print("time taken = %d seconds"%(time.time()-start_time))
