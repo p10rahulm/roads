@@ -1,3 +1,4 @@
+// Load the recent news
 fetch('content/recent_news/recent_news.txt')
     .then(response => response.text())
     .then(text => {
@@ -7,11 +8,13 @@ fetch('content/recent_news/recent_news.txt')
     })
     .catch(error => console.error('Error loading news:', error));
 
+// Load the intro
 document.addEventListener('DOMContentLoaded', function() {
     fetch('content/intro.md')
         .then(response => response.text())
-        .then(text => {
-            document.getElementById('intro-content').innerHTML = text;
+        .then(markdown => {
+            const htmlContent = marked(markdown);
+            document.getElementById('intro-content').innerHTML = htmlContent;
         })
         .catch(error => {
             console.error('Error fetching intro content:', error);
