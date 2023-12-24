@@ -1,299 +1,299 @@
-content/papers/anand/200908_improvedalgoesignproblem.md
-content/papers/anand/201005_improvedalgoesignproblem.md
-content/papers/anand/201008_cutmatchinggrectedgraphs.md
-content/papers/anand/201010_a3approximatrmcapacities.md
-content/papers/anand/201109_algorithmicendpartitions.md
-content/papers/anand/201110_manysparsecureigenvalues.md
-content/papers/anand/201210_manysparsecureigenvalues.md
-content/papers/anand/201303_thecomplexittexexpansion.md
-content/papers/anand/201308_approximatiopartitioning.md
-content/papers/anand/201310_a3approximatrmcapacities.md
-content/papers/anand/201310_thecomplexittexexpansion.md
-content/papers/anand/201402_approximatiopartitioning.md
-content/papers/anand/201405_linearprogradsteinertree.md
-content/papers/anand/201408_approximatiotexexpansion.md
-content/papers/anand/201408_hypergraphmaonalgorithms.md
-content/papers/anand/201409_approximatiotexexpansion.md
-content/papers/anand/201510_acceleratednxeigenvalues.md
-content/papers/anand/201511_hypergraphmaonalgorithms.md
-content/papers/anand/201603_acceleratednxpolynomials.md
-content/papers/anand/201606_approximatiotexexpansion.md
-content/papers/anand/201608_spectralproponalgorithms.md
-content/papers/anand/201709_findingpseudrandomgraphs.md
-content/papers/anand/201808_semirandomgrmaterecovery.md
-content/papers/anand/201809_hypergcnhypeassification.md
-content/papers/anand/201810_clusteringpeentinstances.md
-content/papers/anand/201810_semirandomgrmaterecovery.md
-content/papers/anand/201811_spectralproponalgorithms.md
-content/papers/anand/201905_hypergcnanewnhypergraphs.md
-content/papers/anand/201905_stabilityoflsalinference.md
-content/papers/anand/201906_oneuclideankterproximity.md
-content/papers/anand/201909_approximatioorablegraphs.md
-content/papers/anand/201910_plantedmodeltexexpansion.md
-content/papers/anand/201912_stabilityoflsalinference.md
-content/papers/anand/202003_onthecomplexnceembedding.md
-content/papers/anand/202005_approximatioguniquegames.md
-content/papers/anand/202005_plantedmodelgraphproblem.md
-content/papers/anand/202006_groupfairnessackproblems.md
-content/papers/anand/202007_robustidentisalinference.md
-content/papers/anand/202010_rankingforinmultaneously.md
-content/papers/anand/202012_nhpneuralhypnkprediction.md
-content/papers/anand/202012_plantedmodelgraphproblem.md
-content/papers/anand/202104_independentsmhypergraphs.md
-content/papers/anand/202105_graphneuralnnhypergraphs.md
-content/papers/anand/202105_matchingswitnealgorithms.md
-content/papers/anand/202107_approximatioguniquegames.md
-content/papers/anand/202107_groupfairnessackproblems.md
-content/papers/anand/202108_independentsmhypergraphs.md
-content/papers/anand/202108_ontheproblempfairranking.md
-content/papers/anand/202110_matchingswitnealgorithms.md
-content/papers/anand/202203_samplingrandfairrankings.md
-content/papers/anand/202203_sparsecutsinialcomplexes.md
-content/papers/anand/202205_approximatinwithoutliers.md
-content/papers/anand/202205_exactrecoverrandomgraphs.md
-content/papers/anand/202206_exactrecoverrandomgraphs.md
-content/papers/anand/202208_bipartitematsconstraints.md
-content/papers/anand/202208_matchingsundyconstraints.md
-content/papers/anand/202208_sociallyfairceclustering.md
-content/papers/anand/202209_approximatinwithoutliers.md
-content/papers/anand/202210_robustidentisalinference.md
-content/papers/anand/202306_samplingindiaysgroupfair.md
-content/papers/anand/202308_samplingexpofairrankings.md
-content/papers/anand/202309_optimizinggrpostfairness.md
-content/papers/anand/202309_samplingindiaysgroupfair.md
-content/papers/anand/202309_sociallyfairceclustering.md
-content/papers/anand/202310_onlinealgoriyconstraints.md
-content/papers/anand/202312_newapproximatexexpansion.md
-content/papers/arindam/201004_attributebasfidentiality.md
-content/papers/arindam/201105_discoveringbdersfromdata.md
-content/papers/arindam/201208_onmimickingnterminalcuts.md
-content/papers/arindam/201302_diffuserefleablepolygons.md
-content/papers/arindam/201402_improvedappralbinpacking.md
-content/papers/arindam/201405_onmimickingnterminalcuts.md
-content/papers/arindam/201411_roleofconforcialnetworks.md
-content/papers/arindam/201502_onweightedbiedgecoloring.md
-content/papers/arindam/201601_improvedpseustrippacking.md
-content/papers/arindam/201605_approximatioalbinpacking.md
-content/papers/arindam/201609_improvedapprorbinpacking.md
-content/papers/arindam/201701_approximatinvialpackings.md
-content/papers/arindam/201703_approximatinvialpackings.md
-content/papers/arindam/201704_approximatiockingasurvey.md
-content/papers/arindam/201808_improvedpseustrippacking.md
-content/papers/arindam/201811_thematchingaionalgorithm.md
-content/papers/arindam/201909_improvedonliomordermodel.md
-content/papers/arindam/202001_streamingalgarmedbandits.md
-content/papers/arindam/202001_thematchingaionalgorithm.md
-content/papers/arindam/202006_groupfairnessackproblems.md
-content/papers/arindam/202009_atight32epsistrippacking.md
-content/papers/arindam/202009_onguillotinendrectangles.md
-content/papers/arindam/202012_bestfitbinpaderrevisited.md
-content/papers/arindam/202012_improvedonliomordermodel.md
-content/papers/arindam/202101_improvedappriralsandmore.md
-content/papers/arindam/202102_approximatioonalknapsack.md
-content/papers/arindam/202103_improvedappriralsandmore.md
-content/papers/arindam/202105_multiarmedbaminimization.md
-content/papers/arindam/202105_peakdemandmistrippacking.md
-content/papers/arindam/202105_tightapproxihskeweditems.md
-content/papers/arindam/202106_a4approximatofrectangles.md
-content/papers/arindam/202106_geometrymeetionalpacking.md
-content/papers/arindam/202106_improvedonliomordermodel.md
-content/papers/arindam/202107_groupfairnessackproblems.md
-content/papers/arindam/202108_bestfitbinpaderrevisited.md
-content/papers/arindam/202109_peakdemandmistrippacking.md
-content/papers/arindam/202109_tightapproxihskeweditems.md
-content/papers/arindam/202109_universalanddmeanwelfare.md
-content/papers/arindam/202110_approximatinvialpackings.md
-content/papers/arindam/202110_onguillotinepsackproblem.md
-content/papers/arindam/202111_aptasforthehbbingproblem.md
-content/papers/arindam/202202_approximatiopandroundsap.md
-content/papers/arindam/202202_tightapproxistrippacking.md
-content/papers/arindam/202203_aptasforpackntoaknapsack.md
-content/papers/arindam/202204_a3approximatofrectangles.md
-content/papers/arindam/202205_fairnessandwarmedbandits.md
-content/papers/arindam/202205_fairrankaggrkaggregation.md
-content/papers/arindam/202205_nearoptimalanebinpacking.md
-content/papers/arindam/202206_aptasforpackntoaknapsack.md
-content/papers/arindam/202206_nearoptimalanebinpacking.md
-content/papers/arindam/202206_tightapproxistrippacking.md
-content/papers/arindam/202207_aptasforthehbbingproblem.md
-content/papers/arindam/202208_findingfairatconstraints.md
-content/papers/arindam/202208_mitigatingdiovingbandits.md
-content/papers/arindam/202209_approximatiopandroundsap.md
-content/papers/arindam/202209_universalanddmeanwelfare.md
-content/papers/arindam/202212_geometrymeetionalpacking.md
-content/papers/arindam/202303_onlineanddynndhittingset.md
-content/papers/arindam/202305_guaranteeingtconstraints.md
-content/papers/arindam/202306_onlineanddynndhittingset.md
-content/papers/arindam/202307_guaranteeingtconstraints.md
-content/papers/arindam/202308_fairrankaggrkaggregation.md
-content/papers/arindam/202308_mitigatingdiovingbandits.md
-content/papers/arindam/202309_fairnessandwarmedbandits.md
-content/papers/arindam/202309_findingfairatconstraints.md
-content/papers/arindam/202310_atight32epsistrippacking.md
-content/papers/arindam/202310_tightapproxihskeweditems.md
-content/papers/arindam/202311_peakdemandmistrippacking.md
-content/papers/rahul/200905_datastructurbycategories.md
-content/papers/rahul/201005_rangeaggregaetricobjects.md
-content/papers/rahul/201101_datastructurercategories.md
-content/papers/rahul/201101_efficienttopogonalranges.md
-content/papers/rahul/201101_rangeaggregaonoperations.md
-content/papers/rahul/201211_algorithmsfoylinequeries.md
-content/papers/rahul/201211_coloredrangeternalmemory.md
-content/papers/rahul/201405_ageneraltechueryproblems.md
-content/papers/rahul/201502_improvedbounmathbbrmbox3.md
-content/papers/rahul/201505_rangesearchoplesofpoints.md
-content/papers/rahul/201506_abottleneckmgconstraints.md
-content/papers/rahul/201508_approximateringrevisited.md
-content/papers/rahul/201509_ontopkrangeringin2dspace.md
-content/papers/rahul/201608_newresultsfoofinversions.md
-content/papers/rahul/201612_efficienttopalreductions.md
-content/papers/rahul/201706_approximateringrevisited.md
-content/papers/rahul/201711_newboundsforpairproblems.md
-content/papers/rahul/201804_newboundsforpairproblems.md
-content/papers/rahul/201808_orthogonalpogqueriesin3d.md
-content/papers/rahul/201810_twoknownresuortoddcycles.md
-content/papers/rahul/201811_searchingforerytranslate.md
-content/papers/rahul/201812_orthogonalpogqueriesin3d.md
-content/papers/rahul/201901_searchingforerytranslate.md
-content/papers/rahul/201903_activelearniowdimensions.md
-content/papers/rahul/201903_rangeclosesterdimensions.md
-content/papers/rahul/201912_aguidetodesigtopkindexes.md
-content/papers/rahul/202003_analmostoptimathbbrmbox3.md
-content/papers/rahul/202007_rangeclosesterdimensions.md
-content/papers/rahul/202010_searchingforerytranslate.md
-content/papers/rahul/202012_activelearniowdimensions.md
-content/papers/rahul/202103_simplemultipxtremepoints.md
-content/papers/rahul/202105_approximateringrevisited.md
-content/papers/rahul/202105_optimalalgorarmedbandits.md
-content/papers/rahul/202106_activelearniowdimensions.md
-content/papers/rahul/202108_optimalalgorarmedbandits.md
-content/papers/rahul/202206_newboundsforpairproblems.md
-content/papers/rahul/202210_orthogonalpogqueriesin3d.md
-content/papers/rahul/202211_4drangereportoptimaltime.md
-content/papers/rahul/202212_asimplepolynectiongraphs.md
-content/papers/rahul/202212_generictechnhkstructures.md
-content/papers/rahul/202302_4drangereportoptimaltime.md
-content/papers/rahul/202303_onlineanddynndhittingset.md
-content/papers/rahul/202306_onlineanddynndhittingset.md
-content/papers/siddharth/200505_securetwoparerecognition.md
-content/papers/siddharth/200808_packingmultiitatedgraphs.md
-content/papers/siddharth/200906_packingmultiitatedgraphs.md
-content/papers/siddharth/200908_regiongrowinltiroutecuts.md
-content/papers/siddharth/201002_regiongrowinltiroutecuts.md
-content/papers/siddharth/201103_preventingeqonymizeddata.md
-content/papers/siddharth/201104_decompositiolelpdecoding.md
-content/papers/siddharth/201108_secretaryprohconvexcosts.md
-content/papers/siddharth/201108_trafficredunetworkdesign.md
-content/papers/siddharth/201111_onthecomplexntprocessing.md
-content/papers/siddharth/201202_trafficredunetworkdesign.md
-content/papers/siddharth/201203_approximatesasedapproach.md
-content/papers/siddharth/201205_abicriteriaaufferproblem.md
-content/papers/siddharth/201205_secretaryprohconvexcosts.md
-content/papers/siddharth/201208_abicriteriaaufferproblem.md
-content/papers/siddharth/201208_decompositiolelpdecoding.md
-content/papers/siddharth/201304_decompositiolelpdecoding.md
-content/papers/siddharth/201305_ataleoftwomeessandregret.md
-content/papers/siddharth/201307_ataleoftwomeessandregret.md
-content/papers/siddharth/201308_a2approximatminardemands.md
-content/papers/siddharth/201308_empiricaldisgapplication.md
-content/papers/siddharth/201308_onloadsheddintprocessing.md
-content/papers/siddharth/201308_querycomplexdequilibrium.md
-content/papers/siddharth/201308_smallsupportedequilibria.md
-content/papers/siddharth/201308_thecomplexitvealedbydata.md
-content/papers/siddharth/201308_theempiricalimatrixgames.md
-content/papers/siddharth/201311_theempiricalimatrixgames.md
-content/papers/siddharth/201401_onloadsheddintprocessing.md
-content/papers/siddharth/201408_approximatinshequilibria.md
-content/papers/siddharth/201409_networkdesigoveragecosts.md
-content/papers/siddharth/201410_simpleapproxinlargegames.md
-content/papers/siddharth/201412_ontheexistentegybehavior.md
-content/papers/siddharth/201504_approximatinymatrixgames.md
-content/papers/siddharth/201506_findinganynoibriumishard.md
-content/papers/siddharth/201508_algorithmicahannelcoding.md
-content/papers/siddharth/201508_ataleoftwomeessandregret.md
-content/papers/siddharth/201508_computingoptncyfunctions.md
-content/papers/siddharth/201508_findinganynoibriumishard.md
-content/papers/siddharth/201508_onlineconvexgpredictions.md
-content/papers/siddharth/201511_approximatindorystheorem.md
-content/papers/siddharth/201511_querycomplexdequilibrium.md
-content/papers/siddharth/201602_thedictionarstingproblem.md
-content/papers/siddharth/201608_approximatinymatrixgames.md
-content/papers/siddharth/201608_computationaanpersuasion.md
-content/papers/siddharth/201610_algorithmicahannelcoding.md
-content/papers/siddharth/201701_approximatiofairdivision.md
-content/papers/siddharth/201702_algorithmicaanpersuasion.md
-content/papers/siddharth/201705_empiricaldisgapplication.md
-content/papers/siddharth/201708_approximatiofairdivision.md
-content/papers/siddharth/201708_findingfairatallocations.md
-content/papers/siddharth/201708_groupwisemaxvisiblegoods.md
-content/papers/siddharth/201708_onlinelearniedlossspaces.md
-content/papers/siddharth/201803_algorithmicahannelcoding.md
-content/papers/siddharth/201804_testingsparsunknownbases.md
-content/papers/siddharth/201807_approximatindorystheorem.md
-content/papers/siddharth/201808_fairdivisionyconstraints.md
-content/papers/siddharth/201808_fullypolynomrentdivision.md
-content/papers/siddharth/201808_greedyalgoriocialwelfare.md
-content/papers/siddharth/201809_fairdivisionyconstraints.md
-content/papers/siddharth/201809_greedyalgoriocialwelfare.md
-content/papers/siddharth/201809_groupwisemaxvisiblegoods.md
-content/papers/siddharth/201809_onlinelearniedlossspaces.md
-content/papers/siddharth/201811_fairdivisioncretiveagent.md
-content/papers/siddharth/201811_findingfairatallocations.md
-content/papers/siddharth/201811_ontheproximialequilibria.md
-content/papers/siddharth/201902_fairdivisionategicagents.md
-content/papers/siddharth/201902_matroidconstationproblem.md
-content/papers/siddharth/201902_ontheproximialequilibria.md
-content/papers/siddharth/201905_fairdivisionategicagents.md
-content/papers/siddharth/201905_theedgeworthrgeeconomies.md
-content/papers/siddharth/201905_tightapproxiulticoverage.md
-content/papers/siddharth/201907_fullypolynomrentdivision.md
-content/papers/siddharth/201908_fairandefficnectedpieces.md
-content/papers/siddharth/201908_quantifyingiroupfairness.md
-content/papers/siddharth/201909_fairdivisioncretiveagent.md
-content/papers/siddharth/201911_fairandefficnectedpieces.md
-content/papers/siddharth/202001_existenceandnkvaluations.md
-content/papers/siddharth/202003_optimalboundvisiblegoods.md
-content/papers/siddharth/202003_tightapproxiulticoverage.md
-content/papers/siddharth/202004_approximatiofairdivision.md
-content/papers/siddharth/202005_tightapproxivevaluations.md
-content/papers/siddharth/202005_uniformwelfavevaluations.md
-content/papers/siddharth/202006_faircakedivilihoodratios.md
-content/papers/siddharth/202007_settlingthepvisiblegoods.md
-content/papers/siddharth/202007_theedgeworthrgeeconomies.md
-content/papers/siddharth/202007_uniformwelfavevaluations.md
-content/papers/siddharth/202009_faircakedivilihoodratios.md
-content/papers/siddharth/202010_tightapproxirageproblems.md
-content/papers/siddharth/202012_tightapproxivevaluations.md
-content/papers/siddharth/202103_tightapproxirageproblems.md
-content/papers/siddharth/202105_optimalalgorarmedbandits.md
-content/papers/siddharth/202106_approximatinvevaluations.md
-content/papers/siddharth/202107_existenceandnkvaluations.md
-content/papers/siddharth/202108_optimalalgorarmedbandits.md
-content/papers/siddharth/202109_truthfulandfnkvaluations.md
-content/papers/siddharth/202109_universalanddmeanwelfare.md
-content/papers/siddharth/202110_approximatinvevaluations.md
-content/papers/siddharth/202110_sublinearapposvaluations.md
-content/papers/siddharth/202111_interventiongecausalmdps.md
-content/papers/siddharth/202201_achievingenvusvaluations.md
-content/papers/siddharth/202204_tightapproxiulticoverage.md
-content/papers/siddharth/202205_fairnessandwarmedbandits.md
-content/papers/siddharth/202207_achievingenvusvaluations.md
-content/papers/siddharth/202207_nashwelfaregientcoverage.md
-content/papers/siddharth/202208_approximationectedpieces.md
-content/papers/siddharth/202208_findingfairatconstraints.md
-content/papers/siddharth/202208_fullypolynomrentdivision.md
-content/papers/siddharth/202209_truthfulandfnkvaluations.md
-content/papers/siddharth/202209_universalanddmeanwelfare.md
-content/papers/siddharth/202212_faircakedivilihoodratios.md
-content/papers/siddharth/202212_nashwelfaregientcoverage.md
-content/papers/siddharth/202302_fairchoredivmodularcosts.md
-content/papers/siddharth/202305_fairchoredivmodularcosts.md
-content/papers/siddharth/202305_guaranteeingtconstraints.md
-content/papers/siddharth/202305_learninggoodsviacovering.md
-content/papers/siddharth/202307_approximationectedpieces.md
-content/papers/siddharth/202307_guaranteeingtconstraints.md
-content/papers/siddharth/202308_learninggoodsviacovering.md
-content/papers/siddharth/202308_theedgeworthrgeeconomies.md
-content/papers/siddharth/202309_fairnessandwarmedbandits.md
-content/papers/siddharth/202309_findingfairatconstraints.md
-content/papers/siddharth/202310_nashregretguinearbandits.md
+J165 | content/papers/anand/202312_newapproximatexexpansion.md
+J164 | content/papers/arindam/202311_peakdemandmistrippacking.md
+J163 | content/papers/arindam/202310_tightapproxihskeweditems.md
+C134 | content/papers/anand/202310_onlinealgoriyconstraints.md
+J162 | content/papers/siddharth/202310_nashregretguinearbandits.md
+J161 | content/papers/arindam/202310_atight32epsistrippacking.md
+C133 | content/papers/anand/202309_sociallyfairceclustering.md
+C132 | content/papers/anand/202309_samplingindiaysgroupfair.md
+J160 | content/papers/anand/202309_optimizinggrpostfairness.md
+C131 | content/papers/siddharth/202309_findingfairatconstraints.md
+C130 | content/papers/arindam/202309_findingfairatconstraints.md
+C129 | content/papers/siddharth/202309_fairnessandwarmedbandits.md
+C128 | content/papers/arindam/202309_fairnessandwarmedbandits.md
+J159 | content/papers/siddharth/202308_theedgeworthrgeeconomies.md
+C127 | content/papers/anand/202308_samplingexpofairrankings.md
+C126 | content/papers/arindam/202308_mitigatingdiovingbandits.md
+C125 | content/papers/siddharth/202308_learninggoodsviacovering.md
+J158 | content/papers/arindam/202308_fairrankaggrkaggregation.md
+C124 | content/papers/siddharth/202307_guaranteeingtconstraints.md
+C123 | content/papers/arindam/202307_guaranteeingtconstraints.md
+C122 | content/papers/siddharth/202307_approximationectedpieces.md
+J157 | content/papers/anand/202306_samplingindiaysgroupfair.md
+C121 | content/papers/rahul/202306_onlineanddynndhittingset.md
+C120 | content/papers/arindam/202306_onlineanddynndhittingset.md
+J156 | content/papers/siddharth/202305_learninggoodsviacovering.md
+J155 | content/papers/siddharth/202305_guaranteeingtconstraints.md
+J154 | content/papers/arindam/202305_guaranteeingtconstraints.md
+C119 | content/papers/siddharth/202305_fairchoredivmodularcosts.md
+J153 | content/papers/rahul/202303_onlineanddynndhittingset.md
+J152 | content/papers/arindam/202303_onlineanddynndhittingset.md
+J151 | content/papers/siddharth/202302_fairchoredivmodularcosts.md
+C118 | content/papers/rahul/202302_4drangereportoptimaltime.md
+C117 | content/papers/siddharth/202212_nashwelfaregientcoverage.md
+C116 | content/papers/arindam/202212_geometrymeetionalpacking.md
+J150 | content/papers/rahul/202212_generictechnhkstructures.md
+J149 | content/papers/siddharth/202212_faircakedivilihoodratios.md
+C115 | content/papers/rahul/202212_asimplepolynectiongraphs.md
+J148 | content/papers/rahul/202211_4drangereportoptimaltime.md
+C114 | content/papers/anand/202210_robustidentisalinference.md
+J147 | content/papers/rahul/202210_orthogonalpogqueriesin3d.md
+C113 | content/papers/siddharth/202209_universalanddmeanwelfare.md
+C112 | content/papers/arindam/202209_universalanddmeanwelfare.md
+C111 | content/papers/siddharth/202209_truthfulandfnkvaluations.md
+C110 | content/papers/arindam/202209_approximatiopandroundsap.md
+C109 | content/papers/anand/202209_approximatinwithoutliers.md
+J146 | content/papers/anand/202208_sociallyfairceclustering.md
+J145 | content/papers/arindam/202208_mitigatingdiovingbandits.md
+J144 | content/papers/anand/202208_matchingsundyconstraints.md
+J143 | content/papers/siddharth/202208_fullypolynomrentdivision.md
+J142 | content/papers/siddharth/202208_findingfairatconstraints.md
+J141 | content/papers/arindam/202208_findingfairatconstraints.md
+J140 | content/papers/anand/202208_bipartitematsconstraints.md
+J139 | content/papers/siddharth/202208_approximationectedpieces.md
+J138 | content/papers/siddharth/202207_nashwelfaregientcoverage.md
+C108 | content/papers/arindam/202207_aptasforthehbbingproblem.md
+C107 | content/papers/siddharth/202207_achievingenvusvaluations.md
+C106 | content/papers/arindam/202206_tightapproxistrippacking.md
+J137 | content/papers/rahul/202206_newboundsforpairproblems.md
+C105 | content/papers/arindam/202206_nearoptimalanebinpacking.md
+C104 | content/papers/anand/202206_exactrecoverrandomgraphs.md
+C103 | content/papers/arindam/202206_aptasforpackntoaknapsack.md
+J136 | content/papers/arindam/202205_nearoptimalanebinpacking.md
+C102 | content/papers/arindam/202205_fairrankaggrkaggregation.md
+J135 | content/papers/siddharth/202205_fairnessandwarmedbandits.md
+J134 | content/papers/arindam/202205_fairnessandwarmedbandits.md
+J133 | content/papers/anand/202205_exactrecoverrandomgraphs.md
+J132 | content/papers/anand/202205_approximatinwithoutliers.md
+J131 | content/papers/siddharth/202204_tightapproxiulticoverage.md
+C101 | content/papers/arindam/202204_a3approximatofrectangles.md
+J130 | content/papers/anand/202203_sparsecutsinialcomplexes.md
+J129 | content/papers/anand/202203_samplingrandfairrankings.md
+J128 | content/papers/arindam/202203_aptasforpackntoaknapsack.md
+J127 | content/papers/arindam/202202_tightapproxistrippacking.md
+J126 | content/papers/arindam/202202_approximatiopandroundsap.md
+J125 | content/papers/siddharth/202201_achievingenvusvaluations.md
+J124 | content/papers/siddharth/202111_interventiongecausalmdps.md
+J123 | content/papers/arindam/202111_aptasforthehbbingproblem.md
+J122 | content/papers/siddharth/202110_sublinearapposvaluations.md
+J121 | content/papers/arindam/202110_onguillotinepsackproblem.md
+C100 | content/papers/anand/202110_matchingswitnealgorithms.md
+J120 | content/papers/arindam/202110_approximatinvialpackings.md
+C99 | content/papers/siddharth/202110_approximatinvevaluations.md
+J119 | content/papers/siddharth/202109_universalanddmeanwelfare.md
+J118 | content/papers/arindam/202109_universalanddmeanwelfare.md
+J117 | content/papers/siddharth/202109_truthfulandfnkvaluations.md
+C98 | content/papers/arindam/202109_tightapproxihskeweditems.md
+C97 | content/papers/arindam/202109_peakdemandmistrippacking.md
+C96 | content/papers/siddharth/202108_optimalalgorarmedbandits.md
+C95 | content/papers/rahul/202108_optimalalgorarmedbandits.md
+C94 | content/papers/anand/202108_ontheproblempfairranking.md
+C93 | content/papers/anand/202108_independentsmhypergraphs.md
+J116 | content/papers/arindam/202108_bestfitbinpaderrevisited.md
+C92 | content/papers/arindam/202107_groupfairnessackproblems.md
+C91 | content/papers/anand/202107_groupfairnessackproblems.md
+C90 | content/papers/siddharth/202107_existenceandnkvaluations.md
+C89 | content/papers/anand/202107_approximatioguniquegames.md
+J115 | content/papers/arindam/202106_improvedonliomordermodel.md
+J114 | content/papers/arindam/202106_geometrymeetionalpacking.md
+J113 | content/papers/siddharth/202106_approximatinvevaluations.md
+J112 | content/papers/rahul/202106_activelearniowdimensions.md
+J111 | content/papers/arindam/202106_a4approximatofrectangles.md
+J110 | content/papers/arindam/202105_tightapproxihskeweditems.md
+J109 | content/papers/arindam/202105_peakdemandmistrippacking.md
+J108 | content/papers/siddharth/202105_optimalalgorarmedbandits.md
+J107 | content/papers/rahul/202105_optimalalgorarmedbandits.md
+C88 | content/papers/arindam/202105_multiarmedbaminimization.md
+J106 | content/papers/anand/202105_matchingswitnealgorithms.md
+C87 | content/papers/anand/202105_graphneuralnnhypergraphs.md
+J105 | content/papers/rahul/202105_approximateringrevisited.md
+J104 | content/papers/anand/202104_independentsmhypergraphs.md
+C86 | content/papers/siddharth/202103_tightapproxirageproblems.md
+C85 | content/papers/rahul/202103_simplemultipxtremepoints.md
+J103 | content/papers/arindam/202103_improvedappriralsandmore.md
+J102 | content/papers/arindam/202102_approximatioonalknapsack.md
+C84 | content/papers/arindam/202101_improvedappriralsandmore.md
+C83 | content/papers/siddharth/202012_tightapproxivevaluations.md
+C82 | content/papers/anand/202012_plantedmodelgraphproblem.md
+C81 | content/papers/anand/202012_nhpneuralhypnkprediction.md
+J101 | content/papers/arindam/202012_improvedonliomordermodel.md
+J100 | content/papers/arindam/202012_bestfitbinpaderrevisited.md
+C80 | content/papers/rahul/202012_activelearniowdimensions.md
+J99 | content/papers/siddharth/202010_tightapproxirageproblems.md
+J98 | content/papers/rahul/202010_searchingforerytranslate.md
+J97 | content/papers/anand/202010_rankingforinmultaneously.md
+C79 | content/papers/arindam/202009_onguillotinendrectangles.md
+C78 | content/papers/siddharth/202009_faircakedivilihoodratios.md
+C77 | content/papers/arindam/202009_atight32epsistrippacking.md
+C76 | content/papers/siddharth/202007_uniformwelfavevaluations.md
+C75 | content/papers/siddharth/202007_theedgeworthrgeeconomies.md
+J96 | content/papers/siddharth/202007_settlingthepvisiblegoods.md
+J95 | content/papers/anand/202007_robustidentisalinference.md
+J94 | content/papers/rahul/202007_rangeclosesterdimensions.md
+J93 | content/papers/arindam/202006_groupfairnessackproblems.md
+J92 | content/papers/anand/202006_groupfairnessackproblems.md
+J91 | content/papers/siddharth/202006_faircakedivilihoodratios.md
+J90 | content/papers/siddharth/202005_uniformwelfavevaluations.md
+J89 | content/papers/siddharth/202005_tightapproxivevaluations.md
+J88 | content/papers/anand/202005_plantedmodelgraphproblem.md
+J87 | content/papers/anand/202005_approximatioguniquegames.md
+J86 | content/papers/siddharth/202004_approximatiofairdivision.md
+C74 | content/papers/siddharth/202003_tightapproxiulticoverage.md
+C73 | content/papers/siddharth/202003_optimalboundvisiblegoods.md
+J85 | content/papers/anand/202003_onthecomplexnceembedding.md
+J84 | content/papers/rahul/202003_analmostoptimathbbrmbox3.md
+J83 | content/papers/arindam/202001_thematchingaionalgorithm.md
+J82 | content/papers/arindam/202001_streamingalgarmedbandits.md
+J81 | content/papers/siddharth/202001_existenceandnkvaluations.md
+C72 | content/papers/anand/201912_stabilityoflsalinference.md
+J80 | content/papers/rahul/201912_aguidetodesigtopkindexes.md
+C71 | content/papers/siddharth/201911_fairandefficnectedpieces.md
+J79 | content/papers/anand/201910_plantedmodeltexexpansion.md
+C70 | content/papers/arindam/201909_improvedonliomordermodel.md
+C69 | content/papers/siddharth/201909_fairdivisioncretiveagent.md
+J78 | content/papers/anand/201909_approximatioorablegraphs.md
+J77 | content/papers/siddharth/201908_quantifyingiroupfairness.md
+J76 | content/papers/siddharth/201908_fairandefficnectedpieces.md
+C68 | content/papers/siddharth/201907_fullypolynomrentdivision.md
+C67 | content/papers/anand/201906_oneuclideankterproximity.md
+J75 | content/papers/siddharth/201905_tightapproxiulticoverage.md
+J74 | content/papers/siddharth/201905_theedgeworthrgeeconomies.md
+J73 | content/papers/anand/201905_stabilityoflsalinference.md
+C66 | content/papers/anand/201905_hypergcnanewnhypergraphs.md
+C65 | content/papers/siddharth/201905_fairdivisionategicagents.md
+J72 | content/papers/rahul/201903_rangeclosesterdimensions.md
+J71 | content/papers/rahul/201903_activelearniowdimensions.md
+C64 | content/papers/siddharth/201902_ontheproximialequilibria.md
+C63 | content/papers/siddharth/201902_matroidconstationproblem.md
+J70 | content/papers/siddharth/201902_fairdivisionategicagents.md
+C62 | content/papers/rahul/201901_searchingforerytranslate.md
+C61 | content/papers/rahul/201812_orthogonalpogqueriesin3d.md
+J69 | content/papers/arindam/201811_thematchingaionalgorithm.md
+J68 | content/papers/anand/201811_spectralproponalgorithms.md
+J67 | content/papers/rahul/201811_searchingforerytranslate.md
+J66 | content/papers/siddharth/201811_ontheproximialequilibria.md
+C60 | content/papers/siddharth/201811_findingfairatallocations.md
+J65 | content/papers/siddharth/201811_fairdivisioncretiveagent.md
+J64 | content/papers/rahul/201810_twoknownresuortoddcycles.md
+C59 | content/papers/anand/201810_semirandomgrmaterecovery.md
+J63 | content/papers/anand/201810_clusteringpeentinstances.md
+C58 | content/papers/siddharth/201809_onlinelearniedlossspaces.md
+J62 | content/papers/anand/201809_hypergcnhypeassification.md
+C57 | content/papers/siddharth/201809_groupwisemaxvisiblegoods.md
+C56 | content/papers/siddharth/201809_greedyalgoriocialwelfare.md
+C55 | content/papers/siddharth/201809_fairdivisionyconstraints.md
+J61 | content/papers/anand/201808_semirandomgrmaterecovery.md
+J60 | content/papers/rahul/201808_orthogonalpogqueriesin3d.md
+J59 | content/papers/arindam/201808_improvedpseustrippacking.md
+J58 | content/papers/siddharth/201808_greedyalgoriocialwelfare.md
+J57 | content/papers/siddharth/201808_fullypolynomrentdivision.md
+J56 | content/papers/siddharth/201808_fairdivisionyconstraints.md
+J55 | content/papers/siddharth/201807_approximatindorystheorem.md
+C54 | content/papers/siddharth/201804_testingsparsunknownbases.md
+C53 | content/papers/rahul/201804_newboundsforpairproblems.md
+J54 | content/papers/siddharth/201803_algorithmicahannelcoding.md
+J53 | content/papers/rahul/201711_newboundsforpairproblems.md
+C52 | content/papers/anand/201709_findingpseudrandomgraphs.md
+J52 | content/papers/siddharth/201708_onlinelearniedlossspaces.md
+J51 | content/papers/siddharth/201708_groupwisemaxvisiblegoods.md
+J50 | content/papers/siddharth/201708_findingfairatallocations.md
+J49 | content/papers/siddharth/201708_approximatiofairdivision.md
+C51 | content/papers/rahul/201706_approximateringrevisited.md
+J48 | content/papers/siddharth/201705_empiricaldisgapplication.md
+J47 | content/papers/arindam/201704_approximatiockingasurvey.md
+C50 | content/papers/arindam/201703_approximatinvialpackings.md
+C49 | content/papers/siddharth/201702_algorithmicaanpersuasion.md
+C48 | content/papers/siddharth/201701_approximatiofairdivision.md
+J46 | content/papers/arindam/201701_approximatinvialpackings.md
+C47 | content/papers/rahul/201612_efficienttopalreductions.md
+C46 | content/papers/siddharth/201610_algorithmicahannelcoding.md
+C45 | content/papers/arindam/201609_improvedapprorbinpacking.md
+J45 | content/papers/anand/201608_spectralproponalgorithms.md
+J44 | content/papers/rahul/201608_newresultsfoofinversions.md
+J43 | content/papers/siddharth/201608_computationaanpersuasion.md
+J42 | content/papers/siddharth/201608_approximatinymatrixgames.md
+J41 | content/papers/anand/201606_approximatiotexexpansion.md
+C44 | content/papers/arindam/201605_approximatioalbinpacking.md
+C43 | content/papers/anand/201603_acceleratednxpolynomials.md
+J40 | content/papers/siddharth/201602_thedictionarstingproblem.md
+C42 | content/papers/arindam/201601_improvedpseustrippacking.md
+J39 | content/papers/siddharth/201511_querycomplexdequilibrium.md
+C41 | content/papers/anand/201511_hypergraphmaonalgorithms.md
+C40 | content/papers/siddharth/201511_approximatindorystheorem.md
+J38 | content/papers/anand/201510_acceleratednxeigenvalues.md
+C39 | content/papers/rahul/201509_ontopkrangeringin2dspace.md
+J37 | content/papers/siddharth/201508_onlineconvexgpredictions.md
+J36 | content/papers/siddharth/201508_findinganynoibriumishard.md
+J35 | content/papers/siddharth/201508_computingoptncyfunctions.md
+J34 | content/papers/siddharth/201508_ataleoftwomeessandregret.md
+J33 | content/papers/rahul/201508_approximateringrevisited.md
+J32 | content/papers/siddharth/201508_algorithmicahannelcoding.md
+C38 | content/papers/siddharth/201506_findinganynoibriumishard.md
+J31 | content/papers/rahul/201506_abottleneckmgconstraints.md
+J30 | content/papers/rahul/201505_rangesearchoplesofpoints.md
+C37 | content/papers/siddharth/201504_approximatinymatrixgames.md
+C36 | content/papers/arindam/201502_onweightedbiedgecoloring.md
+C35 | content/papers/rahul/201502_improvedbounmathbbrmbox3.md
+C34 | content/papers/siddharth/201412_ontheexistentegybehavior.md
+C33 | content/papers/arindam/201411_roleofconforcialnetworks.md
+C32 | content/papers/siddharth/201410_simpleapproxinlargegames.md
+C31 | content/papers/siddharth/201409_networkdesigoveragecosts.md
+C30 | content/papers/anand/201409_approximatiotexexpansion.md
+J29 | content/papers/anand/201408_hypergraphmaonalgorithms.md
+J28 | content/papers/anand/201408_approximatiotexexpansion.md
+J27 | content/papers/siddharth/201408_approximatinshequilibria.md
+J26 | content/papers/arindam/201405_onmimickingnterminalcuts.md
+C29 | content/papers/anand/201405_linearprogradsteinertree.md
+J25 | content/papers/rahul/201405_ageneraltechueryproblems.md
+C28 | content/papers/arindam/201402_improvedappralbinpacking.md
+C27 | content/papers/anand/201402_approximatiopartitioning.md
+C26 | content/papers/siddharth/201401_onloadsheddintprocessing.md
+C25 | content/papers/siddharth/201311_theempiricalimatrixgames.md
+J24 | content/papers/anand/201310_thecomplexittexexpansion.md
+J23 | content/papers/anand/201310_a3approximatrmcapacities.md
+J22 | content/papers/siddharth/201308_theempiricalimatrixgames.md
+J21 | content/papers/siddharth/201308_thecomplexitvealedbydata.md
+J20 | content/papers/siddharth/201308_smallsupportedequilibria.md
+J19 | content/papers/siddharth/201308_querycomplexdequilibrium.md
+J18 | content/papers/siddharth/201308_onloadsheddintprocessing.md
+J17 | content/papers/siddharth/201308_empiricaldisgapplication.md
+J16 | content/papers/anand/201308_approximatiopartitioning.md
+J15 | content/papers/siddharth/201308_a2approximatminardemands.md
+C24 | content/papers/siddharth/201307_ataleoftwomeessandregret.md
+C23 | content/papers/siddharth/201305_ataleoftwomeessandregret.md
+J14 | content/papers/siddharth/201304_decompositiolelpdecoding.md
+C22 | content/papers/anand/201303_thecomplexittexexpansion.md
+J13 | content/papers/arindam/201302_diffuserefleablepolygons.md
+C21 | content/papers/rahul/201211_coloredrangeternalmemory.md
+C20 | content/papers/rahul/201211_algorithmsfoylinequeries.md
+C19 | content/papers/anand/201210_manysparsecureigenvalues.md
+J12 | content/papers/arindam/201208_onmimickingnterminalcuts.md
+J11 | content/papers/siddharth/201208_decompositiolelpdecoding.md
+J10 | content/papers/siddharth/201208_abicriteriaaufferproblem.md
+C18 | content/papers/siddharth/201205_secretaryprohconvexcosts.md
+C17 | content/papers/siddharth/201205_abicriteriaaufferproblem.md
+C16 | content/papers/siddharth/201203_approximatesasedapproach.md
+C15 | content/papers/siddharth/201202_trafficredunetworkdesign.md
+C14 | content/papers/siddharth/201111_onthecomplexntprocessing.md
+J9 | content/papers/anand/201110_manysparsecureigenvalues.md
+C13 | content/papers/anand/201109_algorithmicendpartitions.md
+J8 | content/papers/siddharth/201108_trafficredunetworkdesign.md
+J7 | content/papers/siddharth/201108_secretaryprohconvexcosts.md
+C12 | content/papers/arindam/201105_discoveringbdersfromdata.md
+C11 | content/papers/siddharth/201104_decompositiolelpdecoding.md
+C10 | content/papers/siddharth/201103_preventingeqonymizeddata.md
+C9 | content/papers/rahul/201101_rangeaggregaonoperations.md
+C8 | content/papers/rahul/201101_efficienttopogonalranges.md
+J6 | content/papers/rahul/201101_datastructurercategories.md
+C7 | content/papers/anand/201010_a3approximatrmcapacities.md
+J5 | content/papers/anand/201008_cutmatchinggrectedgraphs.md
+C6 | content/papers/rahul/201005_rangeaggregaetricobjects.md
+C5 | content/papers/anand/201005_improvedalgoesignproblem.md
+J4 | content/papers/arindam/201004_attributebasfidentiality.md
+C4 | content/papers/siddharth/201002_regiongrowinltiroutecuts.md
+J3 | content/papers/siddharth/200908_regiongrowinltiroutecuts.md
+J2 | content/papers/anand/200908_improvedalgoesignproblem.md
+C3 | content/papers/siddharth/200906_packingmultiitatedgraphs.md
+C2 | content/papers/rahul/200905_datastructurbycategories.md
+J1 | content/papers/siddharth/200808_packingmultiitatedgraphs.md
+C1 | content/papers/siddharth/200505_securetwoparerecognition.md

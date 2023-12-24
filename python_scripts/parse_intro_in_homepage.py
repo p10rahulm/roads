@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 import markdown
-import codecs
 import time
 
 def convert_md_to_html(file_path):
@@ -28,8 +27,6 @@ def update_html_div(html_file_path, div_id, new_content):
     with open(html_file_path, 'w', encoding='utf-8') as file:
         file.write(formatted_html)
 
-#     with codecs.open(html_file_path, 'w', encoding='utf-8') as file:
-#         file.write(str(soup))
 
 
 if __name__=="__main__":

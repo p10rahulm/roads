@@ -61,6 +61,7 @@ function createPaperHtml(paperData, fileName) {
 
     return `
         <div id="${fileName}" class="paper-card paper-fullpage">
+            <div class="paper-image-holder">${fileNumber}</div>
             <div class="paper-main-holder">
                 <a href="${paperData.paperlink}" target="_blank">
                     <div class="paper-title"><b>Title:</b> ${paperData.title}</div>
@@ -81,11 +82,12 @@ const papersPerPage = 20; // Number of papers per page
 function loadPapers(papersList, startIndex) {
     const endIndex = startIndex + papersPerPage;
     for (let i = startIndex; i < endIndex && i < papersList.length; i++) {
-        const fileName = papersList[i].split('/').pop().replace('.md', '');
-        fetchPaperContent(papersList[i])
+        const [fileNumber, filePath] = papersList[i].split(' | ');
+        const fileName = filePath.split('/').pop().replace('.md', '');
+        fetchPaperContent(filePath)
             .then(content => parsePaperContent(content))
             .then(paperData => {
-                const paperHtml = createPaperHtml(paperData, fileName);
+                const paperHtml = createPaperHtml(paperData, fileName, fileNumber);
                 document.getElementById('papers-container').innerHTML += paperHtml;
             });
     }

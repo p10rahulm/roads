@@ -20,7 +20,7 @@ people involved in the research lab. The content is dynamically loaded and manag
 
 To get started use the following commands.
 1. `python -m venv venv` to create an environment called venv
-2. `venv/scripts/activate` to activate venv on windows or `source myenv/bin/activate` on linux installations.
+2. `source venv/scripts/activate` to activate venv on git bash in windows or `source myenv/bin/activate` on linux installations.
 3. `pip install -r requirements.txt` to install the required project packages on your environment.
 
 

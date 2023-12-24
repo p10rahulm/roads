@@ -57,12 +57,15 @@ def parse_bibtex_as_markdown_files(input_file_path='content/papers/siddharth.bib
         title = entry.get('title', '').replace('\n', ' ')
         authors = entry.get('author', '').replace('\n', ' ').replace(' and ', ', ')
         paper_link = entry.get('url', '').replace('\n', ' ')
+        entry_type= 'conference'
         # Decide the format based on entry type
         if entry['ENTRYTYPE'] == 'article':
             # Format publication details in APA style
             publication_details = format_apa_style(entry)
+            entry_type= 'article'
         elif entry['ENTRYTYPE'] == 'inproceedings':
             publication_details = format_conference_apa_style(entry)
+
 
         timestamp = entry.get('timestamp', ' ')
         conference_date = entry.get('year')
@@ -76,6 +79,7 @@ def parse_bibtex_as_markdown_files(input_file_path='content/papers/siddharth.bib
         file_name = f"{output_file_path}{file_name_prefix}{file_name_title_postfix}.md"
         with open(file_name, 'w') as file:
             file.write(f"+++\ntitle = \"{title}\"\nauthors = \"{authors}\"\npaper_link = \"{paper_link}\"\n")
+            file.write(f"entrytype = \"{entry_type}\"\n")
             file.write(
                 f"publication_details = \"{publication_details}\"\nconference_date = \"{conference_date}\"\nnotes = \"\"\n+++\n\n<b>Abstract:</b>\n")
 
