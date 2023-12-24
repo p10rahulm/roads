@@ -36,7 +36,7 @@ function parsePaperContent(content) {
     return {title, authors, publicationDetails, conferenceDate, abstract, notes, paperlink};
 }
 
-function createPaperHtml(paperData, fileName) {
+function createPaperHtml(paperData, fileName, fileNumber) {
     // Check if publications details is empty, else create the paper-publication-details span
     let publicationDetailsHtml = '';
     if (paperData.publicationDetails) {
