@@ -11,7 +11,7 @@ python python_scripts/parse_intro_in_homepage.py
 
 # Now Git changes
 git add -A
-git commit -m "Created a courses tab."
+git commit -m "Courses Tab looking good!"
 git push
 
 # Now attempt to directly update website through SSH
