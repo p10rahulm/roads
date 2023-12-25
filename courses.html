@@ -63,10 +63,8 @@
     <link rel="stylesheet" href="assets/css/styles.css">
 
     <!--Scripts-->
-    <script src="assets/js/home.js"></script>
     <script src="assets/js/ui-elements.js"></script>
-    <script src="assets/js/paper_parser.js"></script>
-    <script src="assets/js/people_parser.js"></script>
+    <script src="assets/js/courses_parser.js"></script>
 
     <!--fonts-->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
@@ -92,37 +90,29 @@
             <div id="navbar-Home" class="navbar_button">
                 <a href="/">Home</a>
             </div>
-            <div id="navbar-Courses" class="navbar_button">
-                <a href="courses.html">Courses</a>
+            <div id="navbar-Papers" class="navbar_button">
+                <a href="papers.html">Papers</a>
             </div>
             <div id="navbar-People" class="navbar_button">
-                <a href="papers.html">Papers</a>
+                <a href="people.html">People</a>
             </div>
             <div id="navbar-Seminars" class="navbar_button">
                 <a href="https://csa.iisc.ac.in/theoryseminars/" target="_blank">Seminars</a>
             </div>
+
         </div>
 
 
     </div>
     <div class="mainer container-element">
 
-        <div id="people-heading" class="section-heading">
-            People
+
+
+        <div id="courses-heading" class="section-heading">
+            Courses Taught
         </div>
 
-        <div id="professors-container" class="people-group main flexHolder"></div>
-        <div id="postdoc-container" class="people-group main flexHolder"></div>
-        <div id="phd-container" class="people-group main flexHolder"></div>
-        <div id="ra-container" class="people-group main flexHolder"></div>
-        <div id="mtech_research-container" class="people-group main flexHolder"></div>
-        <div id="mtech-container" class="people-group main flexHolder"></div>
-        <div id="intern-container" class="people-group main flexHolder"></div>
-        <div id="alumni-container" class="people-group main flexHolder"></div>
-        <div id="past-intern-container" class="people-group main flexHolder"></div>
-
-
-
+        <div id="courses-container" class="main active"></div>
 
     </div>
 
@@ -136,11 +126,9 @@
 
 
 
-    <!--Loading algos folks details-->
+    <!--Loading the papers on the website-->
     <script>
-        updatePeopleContentWithPromise().then(() => {
-            updateSubheadings(); // Call this after all people content is updated
-        });
+        updatePapersContent()
     </script>
 
 
