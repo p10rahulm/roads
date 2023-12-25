@@ -60,7 +60,7 @@ td, th {
         border-bottom: 1px solid #eee;
         position: relative;
         padding-left: 50%;
-        height: 1em;
+        min-height: 1em;
     }
 
     td:before {
