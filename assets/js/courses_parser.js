@@ -1,4 +1,3 @@
-
 document.addEventListener('DOMContentLoaded', function() {
     fetch('content/courses/courses.md')
         .then(response => response.text())
@@ -10,32 +9,27 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 function markdownToHtmlTable(markdown) {
-    // Split the markdown text into lines
     const lines = markdown.split('\n');
-
-    // Start the HTML table
     let htmlTable = '<table>';
 
-    // Process each line
     lines.forEach((line, index) => {
-        if (line.startsWith('|')) {
-            // Replace markdown table syntax with HTML table syntax
-            const htmlLine = line
-                .replace(/^\|/, '<tr><td>') // Replace starting pipe with table row start
-                .replace(/\|$/, '</td></tr>') // Replace ending pipe with table row end
-                .replace(/\|/g, '</td><td>'); // Replace remaining pipes with table data separators
+        // Skip the second line (table formatting line) and non-table lines
+        if (index === 1 || !line.startsWith('|')) return;
 
-            // Add header tags for the first row
-            if (index === 1) {
-                htmlTable += htmlLine.replace(/<td>/g, '<th>').replace(/<\/td>/g, '</th>');
-            } else {
-                htmlTable += htmlLine;
-            }
+        let htmlLine = line
+            .replace(/^\|/, '<tr><td>') // Replace starting pipe with table row start
+            .replace(/\|$/, '</td></tr>') // Replace ending pipe with table row end
+            .replace(/\|/g, '</td><td>') // Replace remaining pipes with table data separators
+            .replace(/\[(.*?)\]\((.*?)\)/g, '<a href="$2" target="_blank">$1</a>'); // Replace markdown links with HTML links
+
+        // Add header tags for the first row
+        if (index === 0) {
+            htmlLine = htmlLine.replace(/<td>/g, '<th>').replace(/<\/td>/g, '</th>');
         }
+
+        htmlTable += htmlLine;
     });
 
-    // Close the HTML table
     htmlTable += '</table>';
-
     return htmlTable;
 }
